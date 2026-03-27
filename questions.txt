@@ -1,0 +1,3177 @@
+O que é um ataque de DDoS (Negação de Serviço Distribuída)?
+ Um método usado para criptografar dados em trânsito
+ Uma tentativa de enganar usuários para obter informações sigilosas
+ Um ataque que sobrecarrega um serviço com tráfego vindo de múltiplas origens
+ Um equipamento físico usado para filtrar tráfego malicioso
+Resposta: Um ataque que sobrecarrega um serviço com tráfego vindo de múltiplas origens
+Explicação: O objetivo é tornar o serviço indisponível ao inundálo com solicitações simultâneas.
+Categoria: Segurança
+
+Qual é a principal função de um sistema de gerenciamento de identidade e acesso (IAM)?
+ Controlar quem pode acessar recursos e sistemas
+ Monitorar o tráfego de rede em tempo real
+ Realizar backups automáticos de dados
+ Criptografar arquivos armazenados
+Resposta: Controlar quem pode acessar recursos e sistemas
+Explicação: IAM garante que apenas usuários autorizados tenham acesso aos recursos corretos.
+Categoria: Segurança
+
+O que é um ataque de SQL Injection?
+ Uma técnica que explora falhas em aplicações que interagem com bancos SQL
+ Um ataque que tenta derrubar servidores com excesso de tráfego
+ Um método de criptografia para proteger consultas SQL
+ Um dispositivo físico usado para proteger bancos de dados
+Resposta: Uma técnica que explora falhas em aplicações que interagem com bancos SQL
+Explicação: O invasor injeta comandos maliciosos para manipular o banco de dados.
+Categoria: Segurança
+
+Qual é a principal vantagem do uso de firewalls de aplicação web (WAF)?
+ Proteger aplicações web contra ataques direcionados a vulnerabilidades comuns
+ Reduzir o consumo de dados em conexões de internet
+ Aumentar a velocidade de carregamento de páginas
+ Otimizar o desempenho de jogos online
+Resposta: Proteger aplicações web contra ataques direcionados a vulnerabilidades comuns
+Explicação: WAF bloqueia ataques como SQL Injection e XSS.
+Categoria: Segurança
+
+O que é um ataque de força bruta?
+ Uma técnica que tenta adivinhar senhas por repetição de tentativas
+ Um método para criptografar dados sensíveis
+ Um ataque que sobrecarrega servidores com tráfego
+ Um equipamento usado para proteger redes corporativas
+Resposta: Uma técnica que tenta adivinhar senhas por repetição de tentativas
+Explicação: O invasor testa inúmeras combinações até encontrar a correta.
+Categoria: Segurança
+
+Qual é a principal função de um sistema SIEM?
+ Coletar e correlacionar eventos de segurança de diversas fontes
+ Realizar backups automáticos de servidores
+ Gerenciar o tráfego de rede entre regiões
+ Criptografar dados armazenados
+Resposta: Coletar e correlacionar eventos de segurança de diversas fontes
+Explicação: SIEM centraliza logs e ajuda a identificar incidentes.
+Categoria: Segurança
+
+O que é um ataque de crosssite scripting (XSS)?
+ Uma técnica que injeta scripts maliciosos em páginas visualizadas por outros usuários
+ Um método para criptografar páginas web
+ Um ataque que derruba servidores com excesso de tráfego
+ Um equipamento usado para filtrar pacotes de rede
+Resposta: Uma técnica que injeta scripts maliciosos em páginas visualizadas por outros usuários
+Explicação: O script malicioso é executado no navegador da vítima.
+Categoria: Segurança
+
+Qual é a principal vantagem dos testes de penetração (pentests)?
+ Identificar vulnerabilidades reais antes que atacantes as explorem
+ Aumentar a velocidade da conexão de internet
+ Reduzir o consumo de dados em redes corporativas
+ Melhorar o desempenho de jogos online
+Resposta: Identificar vulnerabilidades reais antes que atacantes as explorem
+Explicação: Pentests simulam ataques para avaliar a segurança.
+Categoria: Segurança
+
+O que é o Azure Marketplace?
+ Uma plataforma onde soluções e serviços prontos podem ser adquiridos
+ Um serviço para criar redes virtuais
+ Um repositório de armazenamento de arquivos
+ Um banco de dados gerenciado
+Resposta: Uma plataforma onde soluções e serviços prontos podem ser adquiridos
+Explicação: O Marketplace oferece softwares, imagens e serviços de parceiros.
+Categoria: Governança
+
+Qual é a principal função do Azure Policy?
+ Aplicar regras de conformidade sobre recursos do Azure
+ Criar máquinas virtuais automaticamente
+ Gerenciar redes virtuais
+ Criar bancos de dados
+Resposta: Aplicar regras de conformidade sobre recursos do Azure
+Explicação: Azure Policy garante que recursos sigam padrões definidos.
+Categoria: Governança
+
+O que é o Azure Blueprints?
+ Um serviço que permite definir e implantar ambientes padronizados
+ Um serviço de armazenamento de arquivos
+ Um banco de dados relacional
+ Uma ferramenta para criar redes virtuais
+Resposta: Um serviço que permite definir e implantar ambientes padronizados
+Explicação: Blueprints ajudam a padronizar ambientes completos.
+Categoria: Governança
+
+Qual é a principal função do Azure Resource Manager (ARM)?
+ Gerenciar e implantar recursos usando modelos declarativos
+ Criar bancos de dados automaticamente
+ Configurar redes virtuais
+ Criar máquinas virtuais
+Resposta: Gerenciar e implantar recursos usando modelos declarativos
+Explicação: ARM organiza e controla recursos do Azure.
+Categoria: Governança
+
+O que é o Azure Advisor Score?
+ Uma métrica que avalia a otimização e conformidade dos recursos
+ Um serviço de armazenamento
+ Um banco de dados gerenciado
+ Uma ferramenta para criar redes virtuais
+Resposta: Uma métrica que avalia a otimização e conformidade dos recursos
+Explicação: O score indica o quão bem os recursos seguem boas práticas.
+Categoria: Governança
+
+Qual é a principal função do Azure Security Center Secure Score?
+ Avaliar a postura de segurança dos recursos
+ Criar máquinas virtuais automaticamente
+ Gerenciar redes virtuais
+ Criar bancos de dados
+Resposta: Avaliar a postura de segurança dos recursos
+Explicação: O Secure Score mostra o nível de proteção do ambiente.
+Categoria: Segurança
+
+O que é o Azure Sentinel?
+ Um SIEM e SOAR nativo da nuvem para monitoramento e resposta a ameaças
+ Um serviço de armazenamento
+ Um banco de dados relacional
+ Uma ferramenta para criar redes virtuais
+Resposta: Um SIEM e SOAR nativo da nuvem para monitoramento e resposta a ameaças
+Explicação: Sentinel centraliza logs e automatiza respostas.
+Categoria: Segurança
+
+Qual é a principal função do Azure Key Vault?
+ Armazenar segredos, chaves e certificados com segurança
+ Criar máquinas virtuais
+ Gerenciar redes virtuais
+ Criar bancos de dados
+Resposta: Armazenar segredos, chaves e certificados com segurança
+Explicação: O Key Vault protege informações sensíveis.
+Categoria: Segurança
+
+O que é o Azure DDoS Protection?
+ Um serviço que protege recursos contra ataques de negação de serviço
+ Um serviço de armazenamento
+ Um banco de dados gerenciado
+ Uma ferramenta para criar redes virtuais
+Resposta: Um serviço que protege recursos contra ataques de negação de serviço
+Explicação: Ele detecta e mitiga ataques automaticamente.
+Categoria: Segurança
+
+Qual é a principal função do Azure Firewall?
+ Proteger redes com regras de filtragem e inspeção de tráfego
+ Criar máquinas virtuais
+ Criar bancos de dados
+ Gerenciar redes virtuais
+Resposta: Proteger redes com regras de filtragem e inspeção de tráfego
+Explicação: Azure Firewall controla tráfego de entrada e saída.
+Categoria: Segurança
+
+O que é o Azure ExpressRoute?
+ Um serviço que cria conexões privadas entre ambientes locais e o Azure
+ Um serviço de armazenamento
+ Um banco de dados gerenciado
+ Uma ferramenta para criar redes virtuais
+Resposta: Um serviço que cria conexões privadas entre ambientes locais e o Azure
+Explicação: ExpressRoute oferece conexões privadas e estáveis.
+Categoria: Infraestrutura
+
+Qual é a principal função do Azure VPN Gateway?
+ Criar conexões VPN entre redes locais e redes virtuais do Azure
+ Criar bancos de dados
+ Criar máquinas virtuais
+ Gerenciar redes virtuais
+Resposta: Criar conexões VPN entre redes locais e redes virtuais do Azure
+Explicação: Ele estabelece túneis criptografados entre ambientes.
+Categoria: Infraestrutura
+
+O que é o Azure Traffic Manager?
+ Um serviço que distribui tráfego entre regiões usando DNS
+ Um serviço de armazenamento
+ Um banco de dados gerenciado
+ Uma ferramenta para criar redes virtuais
+Resposta: Um serviço que distribui tráfego entre regiões usando DNS
+Explicação: Ele direciona usuários para o endpoint mais adequado.
+Categoria: Infraestrutura
+
+Qual é a principal função do Azure Load Balancer?
+ Distribuir tráfego entre várias máquinas virtuais
+ Criar bancos de dados
+ Criar máquinas virtuais
+ Gerenciar redes virtuais
+Resposta: Distribuir tráfego entre várias máquinas virtuais
+Explicação: Ele equilibra cargas para garantir disponibilidade.
+Categoria: Infraestrutura
+
+O que é o Azure Application Gateway?
+ Um balanceador de tráfego voltado para aplicações web
+ Um serviço de armazenamento
+ Um banco de dados gerenciado
+ Uma ferramenta para criar redes virtuais
+Resposta: Um balanceador de tráfego voltado para aplicações web
+Explicação: Ele oferece recursos como WAF e roteamento avançado.
+Categoria: Infraestrutura
+
+Qual é a principal função do Azure Front Door?
+ Entregar aplicações web globalmente com baixa latência
+ Criar bancos de dados
+ Criar máquinas virtuais
+ Gerenciar redes virtuais
+Resposta: Entregar aplicações web globalmente com baixa latência
+Explicação: Front Door otimiza desempenho e segurança de apps globais.
+Categoria: Infraestrutura
+
+O que é Aprendizado Não Supervisionado?
+ Um tipo de aprendizado que identifica padrões sem usar dados rotulados
+ Um método que depende de dados rotulados
+ Um modelo que aprende por tentativa e erro
+ Um processo que exige apenas dados estruturados
+Resposta: Um tipo de aprendizado que identifica padrões sem usar dados rotulados
+Explicação: O modelo descobre relações e agrupamentos por conta própria.
+Categoria: IA/ML
+
+O que é escalabilidade horizontal?
+ Adicionar mais servidores para distribuir carga
+ Aumentar os recursos de um único servidor
+ Reduzir a capacidade de um servidor
+ Remover servidores da infraestrutura
+Resposta: Adicionar mais servidores para distribuir carga
+Explicação: É usada para lidar com aumento de demanda.
+Categoria: Infraestrutura
+
+O que é escalabilidade vertical?
+ Aumentar os recursos de um único servidor
+ Adicionar mais servidores à infraestrutura
+ Reduzir a capacidade de um servidor
+ Remover servidores da infraestrutura
+Resposta: Aumentar os recursos de um único servidor
+Explicação: Envolve aumentar CPU, RAM ou armazenamento.
+Categoria: Infraestrutura
+
+Qual modelo de nuvem é usado exclusivamente por uma única organização?
+ Uma infraestrutura compartilhada entre várias empresas
+ Um ambiente de nuvem dedicado a apenas uma organização
+ Um conjunto de serviços distribuídos entre vários provedores
+ Uma combinação de ambientes locais e de nuvem pública
+Resposta: Um ambiente de nuvem dedicado a apenas uma organização
+Explicação: A nuvem privada oferece maior controle e é usada exclusivamente por uma única organização.
+Categoria: Infraestrutura
+
+Qual modelo de nuvem combina nuvem pública e privada?
+ Um ambiente totalmente local
+ Um modelo que mistura ambientes privados e públicos
+ Um serviço que opera apenas em provedores diferentes
+ Um ambiente de nuvem dedicado a uma única empresa
+Resposta: Um modelo que mistura ambientes privados e públicos
+Explicação: A nuvem híbrida integra recursos privados e públicos para maior flexibilidade.
+Categoria: Infraestrutura
+
+O que é alta disponibilidade?
+ A capacidade de manter serviços acessíveis mesmo diante de falhas
+ A habilidade de reduzir custos operacionais
+ A garantia de que dados estejam sempre criptografados
+ A otimização de desempenho de aplicativos
+Resposta: A capacidade de manter serviços acessíveis mesmo diante de falhas
+Explicação: Alta disponibilidade reduz interrupções e mantém serviços funcionando.
+Categoria: Infraestrutura
+
+O que é tolerância a falhas?
+ A capacidade de continuar operando mesmo quando partes do sistema falham
+ A habilidade de monitorar desempenho em tempo real
+ A capacidade de escalar horizontalmente
+ A função de criptografar dados automaticamente
+Resposta: A capacidade de continuar operando mesmo quando partes do sistema falham
+Explicação: Sistemas tolerantes a falhas evitam interrupções mesmo com falhas internas.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite armazenar dados não estruturados, como arquivos de texto e imagens?
+ Um serviço de banco de dados relacional
+ Um serviço de armazenamento de objetos para dados não estruturados
+ Um serviço de máquinas virtuais
+ Um serviço NoSQL distribuído
+Resposta: Um serviço de armazenamento de objetos para dados não estruturados
+Explicação: O Azure Blob Storage é ideal para arquivos, imagens e documentos.
+Categoria: Infraestrutura
+
+Qual serviço do Azure oferece um banco de dados relacional totalmente gerenciado?
+ Um serviço de armazenamento de objetos
+ Um banco de dados relacional gerenciado pelo Azure
+ Um serviço de máquinas virtuais
+ Um banco NoSQL distribuído
+Resposta: Um banco de dados relacional gerenciado pelo Azure
+Explicação: O Azure SQL Database fornece um banco relacional totalmente gerenciado.
+Categoria: Infraestrutura
+
+Qual serviço do Azure oferece um banco de dados NoSQL totalmente gerenciado?
+ Um banco relacional gerenciado
+ Um serviço de armazenamento de objetos
+ Um banco NoSQL distribuído e gerenciado
+ Um serviço de máquinas virtuais
+Resposta: Um banco NoSQL distribuído e gerenciado
+Explicação: O Azure Cosmos DB oferece baixa latência e escalabilidade global.
+Categoria: Infraestrutura
+
+O que é um grupo de recursos no Azure?
+ Um conjunto de redes virtuais
+ Um agrupamento lógico para organizar recursos
+ Um conjunto de usuários com permissões específicas
+ Um conjunto de máquinas virtuais
+Resposta: Um agrupamento lógico para organizar recursos
+Explicação: Grupos de recursos facilitam gerenciamento e organização.
+Categoria: Infraestrutura
+
+O que é uma assinatura do Azure?
+ Um agrupamento lógico de recursos
+ Um plano de cobrança que habilita o uso dos serviços do Azure
+ Um conjunto de usuários com permissões
+ Um agrupamento de grupos de recursos
+Resposta: Um plano de cobrança que habilita o uso dos serviços do Azure
+Explicação: A assinatura define limites, cobrança e acesso aos serviços.
+Categoria: Custos
+
+O que é o Azure Active Directory (Azure AD)?
+ Um serviço de rede virtual
+ Um serviço de identidade e controle de acesso
+ Um serviço de armazenamento de arquivos
+ Um banco de dados gerenciado
+Resposta: Um serviço de identidade e controle de acesso
+Explicação: O Azure AD gerencia autenticação e autorização.
+Categoria: Segurança
+
+Qual serviço do Azure permite criar e gerenciar redes virtuais?
+ Um serviço de identidade
+ Um serviço de armazenamento
+ Um serviço de computação serverless
+ Um serviço para criação de redes virtuais
+Resposta: Um serviço para criar e gerenciar redes virtuais
+Explicação: O Azure Virtual Network permite criar redes isoladas na nuvem.
+Categoria: Infraestrutura
+
+O que é uma Rede Neural?
+ Um modelo inspirado no funcionamento do cérebro humano
+ Um tipo de hardware especializado
+ Um serviço de rede corporativa
+ Um software de produtividade
+Resposta: Um modelo inspirado no funcionamento do cérebro humano
+Explicação: Redes neurais utilizam camadas de neurônios artificiais para aprender padrões.
+Categoria: IA/ML
+
+Qual é a função de um Perceptron em uma Rede Neural?
+ Simular o comportamento de um neurônio artificial
+ Armazenar dados de treinamento
+ Controlar o tráfego entre redes
+ Executar operações de entrada e saída
+Resposta: Simular o comportamento de um neurônio artificial
+Explicação: O perceptron é a unidade básica de processamento em redes neurais.
+Categoria: IA/ML
+
+O que é Processamento de Linguagem Natural (NLP)?
+ A capacidade de interpretar e gerar linguagem humana
+ Um tipo de hardware especializado
+ Um serviço de rede corporativa
+ Um software de produtividade
+Resposta: A capacidade de interpretar e gerar linguagem humana
+Explicação: NLP permite que sistemas entendam textos e fala.
+Categoria: IA/ML
+
+Qual é uma aplicação comum de NLP?
+ Análise de sentimentos
+ Armazenamento de dados
+ Gerenciamento de redes
+ Criação de documentos
+Resposta: Análise de sentimentos
+Explicação: NLP identifica emoções e opiniões em textos.
+Categoria: IA/ML
+
+O que é Visão Computacional?
+ A capacidade de interpretar imagens e vídeos
+ Um tipo de hardware gráfico
+ Um serviço de rede
+ Um software de produtividade
+Resposta: A capacidade de interpretar imagens e vídeos
+Explicação: Visão computacional permite que sistemas “vejam” e analisem conteúdo visual.
+Categoria: IA/ML
+
+Qual é uma aplicação comum de Visão Computacional?
+ Reconhecimento de objetos
+ Armazenamento de dados
+ Gerenciamento de redes
+ Criação de documentos
+Resposta: Reconhecimento de objetos
+Explicação: É amplamente usado em segurança, automação e análise de imagens.
+Categoria: IA/ML
+
+O que é um Algoritmo de Regressão Linear?
+ Um modelo usado para prever valores contínuos
+ Um modelo usado para classificar categorias
+ Um tipo de hardware
+ Um serviço de rede
+Resposta: Um modelo usado para prever valores contínuos
+Explicação: Regressão linear estima valores como preços ou tendências.
+Categoria: IA/ML
+
+Qual é a função de um Algoritmo de Classificação?
+ Prever categorias ou rótulos
+ Prever valores contínuos
+ Armazenar dados
+ Gerenciar redes
+Resposta: Prever categorias ou rótulos
+Explicação: Classificação identifica classes, como “spam” ou “não spam”.
+Categoria: IA/ML
+
+O que é um Algoritmo de Agrupamento (Clustering)?
+ Um modelo que agrupa dados semelhantes sem rótulos
+ Um modelo para prever valores contínuos
+ Um serviço de rede
+ Um modelo para classificar categorias
+Resposta: Um modelo que agrupa dados semelhantes sem rótulos
+Explicação: Clustering encontra padrões ocultos em dados não rotulados.
+Categoria: IA/ML
+
+Qual é a principal vantagem dos Algoritmos de Agrupamento?
+ Descobrir padrões ocultos em dados não rotulados
+ Prever valores contínuos
+ Gerenciar redes
+ Prever categorias
+Resposta: Descobrir padrões ocultos em dados não rotulados
+Explicação: Eles revelam estruturas naturais nos dados.
+Categoria: IA/ML
+
+O que é o Azure Security Center?
+ Um serviço que monitora e recomenda melhorias de segurança
+ Um serviço de criação de máquinas virtuais
+ Um serviço de banco de dados
+ Um serviço de redes virtuais
+Resposta: Um serviço que monitora e recomenda melhorias de segurança
+Explicação: Ele identifica riscos e sugere ações corretivas.
+Categoria: Segurança
+
+Qual serviço do Azure permite criptografar dados em repouso e em trânsito?
+ Um serviço que armazena e gerencia chaves de criptografia
+ Um serviço de armazenamento de objetos
+ Um serviço de identidade
+ Um serviço de computação serverless
+Resposta: Um serviço que armazena e gerencia chaves de criptografia
+Explicação: O Azure Key Vault protege chaves, segredos e certificados.
+Categoria: Segurança
+
+O que é Inteligência Artificial?
+ A capacidade de sistemas realizarem tarefas que exigem inteligência humana
+ Um tipo de hardware especializado
+ Um serviço de rede
+ Um software de produtividade
+Resposta: A capacidade de sistemas realizarem tarefas que exigem inteligência humana
+Explicação: IA envolve aprendizado, raciocínio e tomada de decisão.
+Categoria: IA/ML
+
+O que é a nuvem pública?
+ Um serviço disponibilizado por provedores na internet e acessível a qualquer usuário
+ Um tipo de hardware utilizado em datacenters
+ Um software instalado localmente em servidores
+ Um serviço exclusivo da Microsoft
+Resposta: Um serviço disponibilizado por provedores na internet e acessível a qualquer usuário
+Explicação: A nuvem pública é operada por terceiros e pode ser usada por qualquer organização ou indivíduo.
+Categoria: Infraestrutura
+
+Qual das seguintes opções é um benefício da computação em nuvem?
+ Escalabilidade sob demanda
+ Menor segurança em relação ao ambiente local
+ Custos iniciais mais altos
+ Maior dependência de hardware próprio
+Resposta: Escalabilidade sob demanda
+Explicação: A nuvem permite ajustar recursos conforme a necessidade, sem investimentos iniciais elevados.
+Categoria: Custos
+
+O que é um tipo de hardware?
+ Um componente físico de um computador
+ Um serviço de rede corporativa
+ Um software de produtividade
+ Um sistema de IA para tomada de decisão
+Resposta: Um componente físico de um computador
+Explicação: Hardware inclui itens como processadores, placas, teclados e discos.
+Categoria: Infraestrutura
+
+Qual é a principal vantagem da Inteligência Artificial?
+ Capacidade de analisar grandes volumes de dados rapidamente
+ Necessidade de manutenção constante
+ Alto custo inicial obrigatório
+ Dependência de hardware proprietário
+Resposta: Capacidade de analisar grandes volumes de dados rapidamente
+Explicação: A IA identifica padrões e gera insights em grande escala.
+Categoria: IA/ML
+
+O que é Aprendizado de Máquina (Machine Learning)?
+ Um subconjunto da IA que cria modelos capazes de aprender com dados
+ Um tipo de hardware especializado
+ Um serviço de rede corporativa
+ Um software de produtividade
+Resposta: Um subconjunto da IA que cria modelos capazes de aprender com dados
+Explicação: Machine Learning permite que sistemas melhorem seu desempenho com experiência.
+Categoria: IA/ML
+
+Qual é a principal característica do Aprendizado Supervisionado?
+ Aprender com dados rotulados
+ Aprender sem qualquer tipo de rótulo
+ Aprender apenas com dados não estruturados
+ Aprender por tentativa e erro contínua
+Resposta: Aprender com dados rotulados
+Explicação: O modelo recebe exemplos com respostas corretas para aprender padrões.
+Categoria: IA/ML
+
+O que é uma rede virtual (VNet) no Azure?
+ Uma rede lógica isolada dentro da nuvem
+ Uma rede física instalada em datacenters
+ Uma rede pública acessível pela internet
+ Uma rede global compartilhada entre provedores
+Resposta: Uma rede lógica isolada dentro da nuvem
+Explicação: A VNet permite criar ambientes privados e segmentados no Azure.
+Categoria: Infraestrutura
+
+O que é um grupo de segurança de rede (NSG)?
+ Um filtro que controla o tráfego de entrada e saída
+ Um conjunto de máquinas virtuais
+ Um agrupamento de redes virtuais
+ Um grupo de usuários com permissões específicas
+Resposta: Um filtro que controla o tráfego de entrada e saída
+Explicação: NSGs aplicam regras que permitem ou bloqueiam tráfego.
+Categoria: Segurança
+
+Qual serviço do Azure permite monitorar desempenho e integridade dos recursos?
+ Azure Monitor
+ Azure Functions
+ Azure Active Directory
+ Azure Blob Storage
+Resposta: Azure Monitor
+Explicação: Ele coleta métricas, logs e telemetria para análise.
+Categoria: Infraestrutura
+
+O que é o Azure Advisor?
+ Um serviço que fornece recomendações para otimizar recursos
+ Um serviço de banco de dados relacional
+ Um serviço de rede privada
+ Um serviço de armazenamento de arquivos
+Resposta: Um serviço que fornece recomendações para otimizar recursos
+Explicação: O Advisor sugere melhorias em custo, segurança, desempenho e confiabilidade.
+Categoria: Governança
+
+O que é o Azure Cost Management?
+ Um serviço para acompanhar e otimizar gastos no Azure
+ Um serviço de criação de redes virtuais
+ Um serviço de gerenciamento de usuários
+ Um serviço de máquinas virtuais
+Resposta: Um serviço para acompanhar e otimizar gastos no Azure
+Explicação: Ele ajuda a controlar custos e identificar oportunidades de economia.
+Categoria: Custos
+
+Qual modelo de preços permite pagar apenas pelo que você usa?
+ Pagamento conforme o uso
+ Preço fixo anual
+ Contrato empresarial obrigatório
+ Reserva de recursos por vários anos
+Resposta: Pagamento conforme o uso
+Explicação: O usuário paga somente pelos recursos consumidos.
+Categoria: Custos
+
+O que é o Azure Reserved Instances?
+ Um modelo que oferece descontos ao reservar recursos antecipadamente
+ Um modelo de preços gratuito
+ Um modelo exclusivo para cargas sob demanda
+ Um modelo de preços compartilhado entre assinaturas
+Resposta: Um modelo que oferece descontos ao reservar recursos antecipadamente
+Explicação: Reservas reduzem custos para recursos usados continuamente.
+Categoria: Custos
+
+O que são Azure Spot Virtual Machines?
+ Máquinas virtuais com preços variáveis e descontos altos
+ Máquinas virtuais gratuitas
+ Máquinas virtuais com preço fixo mensal
+ Máquinas virtuais de uso exclusivo para IA
+Resposta: Máquinas virtuais com preços variáveis e descontos altos
+Explicação: São ideais para cargas flexíveis, pois podem ser interrompidas.
+Categoria: Custos
+
+O que é um Acordo de Nível de Serviço (SLA)?
+ Um documento que define o nível de disponibilidade garantido
+ Um contrato que define preços
+ Um termo que define políticas de segurança
+ Um documento que define regras de uso da plataforma
+Resposta: Um documento que define o nível de disponibilidade garantido
+Explicação: O SLA especifica uptime e compromissos de serviço.
+Categoria: Governança
+
+Qual serviço do Azure permite criar aplicativos sem servidor?
+ Azure Functions
+ Azure Virtual Machines
+ Azure App Service
+ Azure Logic Apps
+Resposta: Azure Functions
+Explicação: Ele executa código sob demanda sem necessidade de gerenciar servidores.
+Categoria: Infraestrutura
+
+O que é o Azure Logic Apps?
+ Um serviço para criar fluxos de trabalho automatizados
+ Um serviço de banco de dados
+ Um serviço de máquinas virtuais
+ Um serviço de redes virtuais
+Resposta: Um serviço para criar fluxos de trabalho automatizados
+Explicação: Logic Apps integra sistemas e automatiza processos.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite criar e gerenciar contêineres?
+ Azure Kubernetes Service (AKS)
+ Azure Active Directory
+ Azure Blob Storage
+ Azure Functions
+Resposta: Azure Kubernetes Service (AKS)
+Explicação: AKS orquestra contêineres e facilita sua administração.
+Categoria: Infraestrutura
+
+O que é o Azure Kubernetes Service (AKS)?
+ Um serviço gerenciado para orquestração de contêineres
+ Um serviço de máquinas virtuais
+ Um serviço de banco de dados
+ Um serviço de redes virtuais
+Resposta: Um serviço gerenciado para orquestração de contêineres
+Explicação: AKS automatiza implantação, escalonamento e gerenciamento de contêineres.
+Categoria: Infraestrutura
+
+O que é o Azure DevOps?
+ Um conjunto de ferramentas para desenvolvimento e entrega contínua
+ Um serviço de armazenamento
+ Um serviço de rede
+ Um banco de dados gerenciado
+Resposta: Um conjunto de ferramentas para desenvolvimento e entrega contínua
+Explicação: Inclui repositórios, pipelines, boards e artefatos.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite criar pipelines de CI/CD?
+ Azure DevOps
+ Azure Functions
+ Azure Active Directory
+ Azure Blob Storage
+Resposta: Azure DevOps
+Explicação: Ele automatiza build, testes e deploy.
+Categoria: Infraestrutura
+
+O que é um Chatbot?
+ Um programa que simula conversas com usuários
+ Um tipo de hardware
+ Um serviço de rede
+ Um software de produtividade
+Resposta: Um programa que simula conversas com usuários
+Explicação: Chatbots respondem perguntas e executam tarefas automaticamente.
+Categoria: IA/ML
+
+Qual é a principal aplicação dos Chatbots?
+ Atendimento ao cliente
+ Armazenamento de dados
+ Gestão de redes
+ Criação de documentos
+Resposta: Atendimento ao cliente
+Explicação: Chatbots agilizam respostas e reduzem carga de suporte.
+Categoria: IA/ML
+
+O que é um Sistema de Recomendação?
+ Um modelo de IA que sugere itens com base em preferências
+ Um tipo de hardware
+ Um serviço de rede
+ Um software de produtividade
+Resposta: Um modelo de IA que sugere itens com base em preferências
+Explicação: Ele recomenda produtos, filmes, músicas e mais.
+Categoria: IA/ML
+
+Qual é a principal aplicação dos Sistemas de Recomendação?
+ Personalização de conteúdo
+ Armazenamento de dados
+ Gestão de redes
+ Criação de documentos
+Resposta: Personalização de conteúdo
+Explicação: Eles ajustam sugestões ao perfil do usuário.
+Categoria: IA/ML
+
+O que é o Azure Machine Learning?
+ Um serviço que gerencia o ciclo de vida de modelos de aprendizado
+ Uma plataforma usada para hospedar aplicações distribuídas
+ Um mecanismo para organizar redes virtuais isoladas
+ Um serviço voltado ao armazenamento de dados analíticos
+Resposta: Um serviço que gerencia o ciclo de vida de modelos de aprendizado
+Explicação: Ele oferece ferramentas para treinar, validar e implantar modelos de IA.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Cognitive Services?
+ Disponibilizar APIs que adicionam capacidades cognitivas a aplicações
+ Fornecer infraestrutura para redes privadas na nuvem
+ Gerenciar ambientes de execução de máquinas virtuais
+ Armazenar dados estruturados em alta escala
+Resposta: Disponibilizar APIs que adicionam capacidades cognitivas a aplicações
+Explicação: Ele inclui serviços de visão, fala, linguagem e decisão.
+Categoria: IA/ML
+
+O que é o Azure Bot Service?
+ Um serviço que permite criar assistentes conversacionais integrados a múltiplos canais
+ Um serviço que replica dados entre regiões para alta disponibilidade
+ Um serviço que controla permissões de acesso a recursos
+ Um serviço que organiza redes virtuais segmentadas
+Resposta: Um serviço que permite criar assistentes conversacionais integrados a múltiplos canais
+Explicação: Ele facilita o desenvolvimento e a publicação de bots.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Cognitive Search?
+ Oferecer busca inteligente com indexação e enriquecimento de conteúdo
+ Criar ambientes de execução para aplicações web
+ Gerenciar redes híbridas entre nuvem e ambiente local
+ Armazenar documentos em estruturas distribuídas
+Resposta: Oferecer busca inteligente com indexação e enriquecimento de conteúdo
+Explicação: Ele combina pesquisa com recursos de IA para análise de dados.
+Categoria: IA/ML
+
+O que é o Azure Form Recognizer?
+ Um serviço que extrai informações estruturadas de documentos
+ Um serviço que replica máquinas virtuais entre regiões
+ Um serviço que controla tráfego entre redes privadas
+ Um serviço que armazena arquivos em camadas de acesso
+Resposta: Um serviço que extrai informações estruturadas de documentos
+Explicação: Ele identifica campos, tabelas e textos automaticamente.
+Categoria: IA/ML
+
+Qual é a função principal do Azure Face API?
+ Analisar características faciais em imagens
+ Gerenciar identidades de usuários em aplicações
+ Armazenar dados de forma distribuída
+ Criar redes privadas isoladas
+Resposta: Analisar características faciais em imagens
+Explicação: Ele detecta rostos, emoções e atributos.
+Categoria: IA/ML
+
+O que é o Azure Speech Service?
+ Um serviço que processa e gera áudio baseado em fala humana
+ Um serviço que organiza redes virtuais segmentadas
+ Um serviço que armazena dados não estruturados
+ Um serviço que gerencia bancos de dados relacionais
+Resposta: Um serviço que processa e gera áudio baseado em fala humana
+Explicação: Ele converte fala em texto, texto em fala e reconhece comandos.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Text Analytics?
+ Extrair informações relevantes de textos
+ Criar ambientes de execução para aplicações distribuídas
+ Gerenciar redes híbridas
+ Armazenar documentos em larga escala
+Resposta: Extrair informações relevantes de textos
+Explicação: Ele identifica sentimentos, entidades e tópicos.
+Categoria: IA/ML
+
+O que é o Azure Translator?
+ Um serviço que traduz textos entre idiomas
+ Um serviço que replica dados entre regiões
+ Um serviço que organiza redes privadas
+ Um serviço que armazena arquivos em camadas
+Resposta: Um serviço que traduz textos entre idiomas
+Explicação: Ele suporta tradução em tempo real e múltiplos idiomas.
+Categoria: IA/ML
+
+O que é o Azure Anomaly Detector?
+ Um serviço que identifica padrões incomuns em séries temporais
+ Um serviço que armazena dados estruturados
+ Um serviço que gerencia redes privadas
+ Um serviço que replica máquinas virtuais
+Resposta: Um serviço que identifica padrões incomuns em séries temporais
+Explicação: Ele detecta desvios e comportamentos atípicos.
+Categoria: IA/ML
+
+O que é o Azure Metrics Advisor?
+ Um serviço que monitora métricas e detecta anomalias automaticamente
+ Um serviço que organiza redes virtuais isoladas
+ Um serviço que armazena dados analíticos
+ Um serviço que gerencia identidades de usuários
+Resposta: Um serviço que monitora métricas e detecta anomalias automaticamente
+Explicação: Ele analisa métricas em tempo real para identificar falhas.
+Categoria: IA/ML
+
+O que é um firewall de rede?
+ Um sistema que controla tráfego com base em regras de segurança
+ Um serviço que replica dados entre regiões
+ Um componente que armazena informações criptografadas
+ Um mecanismo que organiza redes privadas
+Resposta: Um sistema que controla tráfego com base em regras de segurança
+Explicação: Ele filtra pacotes e protege redes contra acessos indevidos.
+Categoria: Segurança
+
+Qual é a principal função de um IDS?
+ Detectar e alertar sobre atividades suspeitas
+ Armazenar dados criptografados
+ Gerenciar redes privadas
+ Criar máquinas virtuais sob demanda
+Resposta: Detectar e alertar sobre atividades suspeitas
+Explicação: IDS identifica tentativas de invasão e comportamentos anômalos.
+Categoria: Segurança
+
+O que é criptografia de dados?
+ Um processo que transforma informações em formato ilegível
+ Um método que compacta arquivos para reduzir tamanho
+ Um mecanismo que organiza redes privadas
+ Um sistema que replica dados entre regiões
+Resposta: Um processo que transforma informações em formato ilegível
+Explicação: Apenas usuários autorizados podem reverter a criptografia.
+Categoria: Segurança
+
+Qual é a principal vantagem do uso de VPN?
+ Proteger a comunicação em redes públicas
+ Aumentar a velocidade da conexão
+ Reduzir o consumo de dados
+ Melhorar desempenho de aplicações
+Resposta: Proteger a comunicação em redes públicas
+Explicação: A VPN criptografa o tráfego e oculta o endereço IP.
+Categoria: Segurança
+
+O que é autenticação de dois fatores?
+ Um processo que exige duas verificações independentes
+ Um método que compacta dados para transmissão
+ Um mecanismo que organiza redes privadas
+ Um sistema que replica dados entre regiões
+Resposta: Um processo que exige duas verificações independentes
+Explicação: Combina senha com um segundo fator, como código ou biometria.
+Categoria: Segurança
+
+Qual é a principal função de um antivírus?
+ Identificar e remover softwares maliciosos
+ Gerenciar redes privadas
+ Armazenar dados criptografados
+ Criar máquinas virtuais sob demanda
+Resposta: Identificar e remover softwares maliciosos
+Explicação: Ele protege contra vírus, trojans e outras ameaças.
+Categoria: Segurança
+
+O que é um ataque de phishing?
+ Uma tentativa fraudulenta de obter informações sensíveis
+ Um ataque que sobrecarrega servidores com tráfego
+ Um método de criptografia de dados
+ Um equipamento de segurança física
+Resposta: Uma tentativa fraudulenta de obter informações sensíveis
+Explicação: Geralmente ocorre por emails ou páginas falsas.
+Categoria: Segurança
+
+Qual é a principal vantagem do uso de senhas fortes?
+ Reduzir a chance de acesso não autorizado
+ Aumentar a velocidade da internet
+ Diminuir o consumo de dados
+ Melhorar desempenho de aplicativos
+Resposta: Reduzir a chance de acesso não autorizado
+Explicação: Senhas fortes dificultam ataques de força bruta.
+Categoria: Segurança
+
+O que é um tipo de hardware?
+ Um elemento físico que compõe a estrutura de um sistema computacional
+ Um conjunto de instruções executadas por um processador
+ Um serviço utilizado para comunicação entre dispositivos
+ Um ambiente lógico criado para execução de aplicações
+Resposta: Um elemento físico que compõe a estrutura de um sistema computacional
+Explicação: Hardware corresponde aos componentes materiais de um computador.
+Categoria: Infraestrutura
+
+Qual é a principal vantagem da Inteligência Artificial?
+ Capacidade de processar grandes volumes de dados e identificar padrões complexos
+ Necessidade reduzida de recursos computacionais para execução
+ Dependência mínima de algoritmos para tomada de decisão
+ Operação restrita a ambientes com baixa variabilidade de dados
+Resposta: Capacidade de processar grandes volumes de dados e identificar padrões complexos
+Explicação: IA analisa dados em escala e extrai insights rapidamente.
+Categoria: IA/ML
+
+O que é Aprendizado de Máquina (Machine Learning)?
+ Um campo que desenvolve modelos capazes de aprender a partir de dados
+ Um mecanismo utilizado para gerenciar redes distribuídas
+ Um processo de execução de tarefas repetitivas sem análise estatística
+ Um conjunto de ferramentas para edição de documentos
+Resposta: Um campo que desenvolve modelos capazes de aprender a partir de dados
+Explicação: ML cria sistemas que melhoram com experiência.
+Categoria: IA/ML
+
+Qual é a principal característica do Aprendizado Supervisionado?
+ Utilizar exemplos rotulados para orientar o treinamento do modelo
+ Identificar padrões sem qualquer referência prévia
+ Aprender exclusivamente por tentativa e erro
+ Processar dados sem estrutura definida
+Resposta: Utilizar exemplos rotulados para orientar o treinamento do modelo
+Explicação: O modelo aprende com pares de entrada e saída.
+Categoria: IA/ML
+
+O que é Aprendizado Não Supervisionado?
+ Um método que identifica estruturas em dados sem rótulos
+ Um processo que depende de respostas previamente definidas
+ Um mecanismo baseado em reforço contínuo
+ Um modelo que opera apenas com dados estruturados
+Resposta: Um método que identifica estruturas em dados sem rótulos
+Explicação: Ele descobre agrupamentos e padrões ocultos.
+Categoria: IA/ML
+
+O que é uma Rede Neural?
+ Um modelo computacional inspirado em conexões biológicas
+ Um conjunto de regras para controle de tráfego de rede
+ Um dispositivo físico para processamento paralelo
+ Um software destinado à automação de tarefas administrativas
+Resposta: Um modelo computacional inspirado em conexões biológicas
+Explicação: Redes neurais simulam neurônios artificiais interligados.
+Categoria: IA/ML
+
+Qual é a função de um Perceptron em uma Rede Neural?
+ Atuar como unidade de processamento responsável por combinar entradas e gerar uma saída
+ Armazenar dados utilizados durante o treinamento
+ Controlar o fluxo de comunicação entre camadas da rede
+ Executar operações de préprocessamento de dados
+Resposta: Atuar como unidade de processamento responsável por combinar entradas e gerar uma saída
+Explicação: O perceptron é o bloco básico de uma rede neural.
+Categoria: IA/ML
+
+O que é Processamento de Linguagem Natural (NLP)?
+ Um conjunto de técnicas que permite interpretar e gerar linguagem humana
+ Um mecanismo para organizar redes de comunicação
+ Um modelo destinado à classificação de imagens
+ Um sistema para controle de acesso a aplicações
+Resposta: Um conjunto de técnicas que permite interpretar e gerar linguagem humana
+Explicação: NLP analisa textos e fala.
+Categoria: IA/ML
+
+Qual é a principal aplicação do Processamento de Linguagem Natural?
+ Identificação de sentimentos e análise de conteúdo textual
+ Controle de tráfego entre redes privadas
+ Armazenamento de dados em estruturas distribuídas
+ Execução de rotinas automatizadas em servidores
+Resposta: Identificação de sentimentos e análise de conteúdo textual
+Explicação: NLP extrai significado e intenção de textos.
+Categoria: IA/ML
+
+O que é Visão Computacional?
+ Um conjunto de técnicas que permite interpretar imagens e vídeos
+ Um mecanismo para controle de acesso a redes
+ Um modelo para análise de dados tabulares
+ Um sistema para gerenciamento de arquivos
+Resposta: Um conjunto de técnicas que permite interpretar imagens e vídeos
+Explicação: A área busca replicar a percepção visual humana.
+Categoria: IA/ML
+
+Qual é a principal aplicação da Visão Computacional?
+ Reconhecimento de objetos em imagens e vídeos
+ Controle de permissões em ambientes corporativos
+ Armazenamento de dados em múltiplas regiões
+ Execução de rotinas automatizadas em servidores
+Resposta: Reconhecimento de objetos em imagens e vídeos
+Explicação: É amplamente usada em segurança, automação e análise visual.
+Categoria: IA/ML
+
+O que é um Algoritmo de Regressão Linear?
+ Um modelo que estima valores contínuos com base em variáveis de entrada
+ Um método para classificar dados em categorias distintas
+ Um mecanismo para agrupar dados sem rótulos
+ Um processo para organizar redes distribuídas
+Resposta: Um modelo que estima valores contínuos com base em variáveis de entrada
+Explicação: Ele prevê valores como preços e tendências.
+Categoria: IA/ML
+
+Qual é a função de um Algoritmo de Classificação?
+ Atribuir categorias a dados com base em padrões aprendidos
+ Estimar valores contínuos em séries temporais
+ Organizar dados em grupos sem rótulos
+ Controlar o fluxo de comunicação entre redes
+Resposta: Atribuir categorias a dados com base em padrões aprendidos
+Explicação: Classificação identifica classes como “spam” ou “não spam”.
+Categoria: IA/ML
+
+O que é um Algoritmo de Agrupamento (Clustering)?
+ Um método que organiza dados semelhantes em grupos sem rótulos
+ Um modelo que prevê valores contínuos
+ Um mecanismo que controla permissões de acesso
+ Um processo que executa tarefas repetitivas
+Resposta: Um método que organiza dados semelhantes em grupos sem rótulos
+Explicação: Ele identifica estruturas naturais nos dados.
+Categoria: IA/ML
+
+Qual é a principal vantagem dos Algoritmos de Agrupamento?
+ Revelar padrões ocultos em conjuntos de dados não rotulados
+ Prever valores contínuos com alta precisão
+ Controlar tráfego entre redes privadas
+ Armazenar dados em múltiplas regiões
+Resposta: Revelar padrões ocultos em conjuntos de dados não rotulados
+Explicação: Clustering descobre relações sem supervisão.
+Categoria: IA/ML
+
+O que é uma rede virtual (VNet) no Azure?
+ Uma rede lógica isolada criada dentro da nuvem
+ Uma rede física instalada em datacenters
+ Uma rede pública acessível pela internet
+ Uma rede global compartilhada entre provedores
+Resposta: Uma rede lógica isolada criada dentro da nuvem
+Explicação: VNets permitem segmentação e controle de tráfego.
+Categoria: Infraestrutura
+
+O que é um grupo de segurança de rede (NSG)?
+ Um conjunto de regras que controla tráfego de entrada e saída
+ Um agrupamento de máquinas virtuais
+ Uma coleção de redes interconectadas
+ Um conjunto de usuários com permissões específicas
+Resposta: Um conjunto de regras que controla tráfego de entrada e saída
+Explicação: NSGs filtram pacotes com base em regras definidas.
+Categoria: Segurança
+
+Qual serviço do Azure permite monitorar desempenho e integridade dos recursos?
+ Azure Monitor
+ Azure Functions
+ Azure Active Directory
+ Azure Blob Storage
+Resposta: Azure Monitor
+Explicação: Ele coleta métricas, logs e telemetria.
+Categoria: Infraestrutura
+
+O que é o Azure Advisor?
+ Um serviço que fornece recomendações de otimização
+ Um serviço de armazenamento distribuído
+ Um mecanismo de controle de acesso
+ Um serviço de replicação de dados
+Resposta: Um serviço que fornece recomendações de otimização
+Explicação: Ele sugere melhorias em custo, segurança e desempenho.
+Categoria: Governança
+
+Qual modelo de preços do Azure permite pagar apenas pelo que é consumido?
+ Pagamento conforme o uso
+ Reserva antecipada de recursos
+ Contrato empresarial fixo
+ Assinatura mensal prédefinida
+Resposta: Pagamento conforme o uso
+Explicação: O custo é proporcional ao consumo real.
+Categoria: Custos
+
+O que é o Azure Reserved Instances?
+ Um modelo que oferece descontos ao reservar recursos por longo prazo
+ Um modelo que fornece recursos gratuitos por tempo limitado
+ Um modelo que cobra apenas pelo uso imediato
+ Um modelo que compartilha recursos entre assinaturas
+Resposta: Um modelo que oferece descontos ao reservar recursos por longo prazo
+Explicação: Ideal para cargas estáveis e contínuas.
+Categoria: Custos
+
+O que são Azure Spot Virtual Machines?
+ Máquinas virtuais com preços variáveis e descontos altos
+ Máquinas virtuais com custo fixo mensal
+ Máquinas virtuais dedicadas a cargas críticas
+ Máquinas virtuais gratuitas para testes
+Resposta: Máquinas virtuais com preços variáveis e descontos altos
+Explicação: São interrompíveis e ideais para workloads flexíveis.
+Categoria: Custos
+
+O que é um Acordo de Nível de Serviço (SLA)?
+ Um documento que define o nível mínimo de disponibilidade garantido
+ Um contrato que determina preços de recursos
+ Um termo que define políticas de segurança
+ Um documento que descreve regras de uso da plataforma
+Resposta: Um documento que define o nível mínimo de disponibilidade garantido
+Explicação: O SLA especifica uptime e compromissos de serviço.
+Categoria: Governança
+
+Qual serviço do Azure permite criar aplicações sem servidor?
+ Azure Functions
+ Azure App Service
+ Azure Virtual Machines
+ Azure Logic Apps
+Resposta: Azure Functions
+Explicação: Ele executa código sob demanda sem gerenciar servidores.
+Categoria: Infraestrutura
+
+
+O que é o Azure Logic Apps?
+ Um serviço que executa fluxos automatizados integrando sistemas e serviços
+ Um mecanismo usado para hospedar aplicações web em contêineres
+ Uma plataforma destinada ao provisionamento de máquinas virtuais
+ Um ambiente para criação de bancos de dados relacionais gerenciados
+Resposta: Um serviço que executa fluxos automatizados integrando sistemas e serviços
+Explicação: Logic Apps permite criar automações conectando APIs, sistemas e eventos.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite criar e gerenciar contêineres?
+ Um serviço gerenciado que orquestra contêineres em clusters distribuídos
+ Um serviço de armazenamento otimizado para objetos não estruturados
+ Um diretório centralizado para autenticação e autorização
+ Um ambiente serverless para execução de funções sob demanda
+Resposta: Um serviço gerenciado que orquestra contêineres em clusters distribuídos
+Explicação: O AKS gerencia clusters Kubernetes para aplicações conteinerizadas.
+Categoria: Infraestrutura
+
+O que é o Azure Kubernetes Service (AKS)?
+ Um serviço que administra clusters Kubernetes para execução de contêineres
+ Um mecanismo para provisionamento de máquinas virtuais dedicadas
+ Um serviço para criação de bancos de dados relacionais
+ Um ambiente para configuração de redes virtuais isoladas
+Resposta: Um serviço que administra clusters Kubernetes para execução de contêineres
+Explicação: AKS automatiza implantação, escalonamento e gerenciamento de contêineres.
+Categoria: Infraestrutura
+
+O que é o Azure DevOps?
+ Um conjunto de ferramentas que suporta versionamento, automação e entrega contínua
+ Um serviço destinado ao armazenamento de arquivos em larga escala
+ Um mecanismo para roteamento de tráfego entre redes
+ Um ambiente para criação de bancos de dados distribuídos
+Resposta: Um conjunto de ferramentas que suporta versionamento, automação e entrega contínua
+Explicação: Azure DevOps integra pipelines, repositórios e gerenciamento de projetos.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite criar pipelines de CI/CD?
+ Um serviço que fornece repositórios, pipelines e automação de entrega
+ Um serviço de armazenamento de objetos para dados não estruturados
+ Um serviço de identidade para autenticação de usuários
+ Um ambiente serverless para execução de funções eventdriven
+Resposta: Um serviço que fornece repositórios, pipelines e automação de entrega
+Explicação: Azure DevOps permite criar pipelines de build e deploy.
+Categoria: Infraestrutura
+
+O que é um Chatbot?
+ Um sistema que simula interações conversacionais com usuários
+ Um componente físico utilizado para processamento paralelo
+ Um mecanismo de rede para roteamento de pacotes
+ Um software destinado à edição de documentos
+Resposta: Um sistema que simula interações conversacionais com usuários
+Explicação: Chatbots respondem perguntas e executam tarefas automaticamente.
+Categoria: IA/ML
+
+Qual é a principal aplicação dos Chatbots?
+ Automatizar interações com usuários em processos de atendimento
+ Organizar dados em estruturas distribuídas
+ Controlar tráfego entre redes privadas
+ Executar rotinas de processamento gráfico
+Resposta: Automatizar interações com usuários em processos de atendimento
+Explicação: Chatbots reduzem carga de suporte e agilizam respostas.
+Categoria: IA/ML
+
+O que é um Sistema de Recomendação?
+ Um modelo que sugere itens com base em padrões de comportamento
+ Um mecanismo que controla permissões de acesso a recursos
+ Um serviço que replica dados entre regiões
+ Um ambiente destinado ao armazenamento de arquivos
+Resposta: Um modelo que sugere itens com base em padrões de comportamento
+Explicação: Sistemas de recomendação personalizam conteúdo para usuários.
+Categoria: IA/ML
+
+Qual é a principal aplicação dos Sistemas de Recomendação?
+ Personalizar conteúdos e sugestões com base no perfil do usuário
+ Controlar tráfego entre redes privadas
+ Armazenar dados em múltiplas regiões
+ Executar rotinas automatizadas em servidores
+Resposta: Personalizar conteúdos e sugestões com base no perfil do usuário
+Explicação: Eles recomendam produtos, filmes, músicas e mais.
+Categoria: IA/ML
+
+O que é o Azure Machine Learning?
+ Um serviço que gerencia o ciclo completo de modelos de aprendizado
+ Um ambiente destinado ao armazenamento de dados não estruturados
+ Um mecanismo para criação de redes virtuais isoladas
+ Um serviço para provisionamento de máquinas virtuais
+Resposta: Um serviço que gerencia o ciclo completo de modelos de aprendizado
+Explicação: Ele treina, valida e implanta modelos de IA.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Cognitive Services?
+ Disponibilizar APIs que adicionam capacidades cognitivas a aplicações
+ Criar ambientes de execução para aplicações web
+ Gerenciar redes híbridas entre nuvem e ambiente local
+ Armazenar documentos em estruturas distribuídas
+Resposta: Disponibilizar APIs que adicionam capacidades cognitivas a aplicações
+Explicação: Ele oferece visão, fala, linguagem e decisão.
+Categoria: IA/ML
+
+O que é o Azure Bot Service?
+ Um serviço que permite criar assistentes conversacionais integrados a múltiplos canais
+ Um serviço que replica dados entre regiões
+ Um serviço que controla permissões de acesso
+ Um serviço que organiza redes virtuais segmentadas
+Resposta: Um serviço que permite criar assistentes conversacionais integrados a múltiplos canais
+Explicação: Ele facilita o desenvolvimento e publicação de bots.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Cognitive Search?
+ Fornecer busca inteligente com indexação e enriquecimento de conteúdo
+ Criar ambientes de execução para aplicações distribuídas
+ Gerenciar redes híbridas
+ Armazenar documentos em larga escala
+Resposta: Fornecer busca inteligente com indexação e enriquecimento de conteúdo
+Explicação: Ele combina pesquisa com recursos de IA.
+Categoria: IA/ML
+
+O que é o Azure Form Recognizer?
+ Um serviço que extrai informações estruturadas de documentos
+ Um serviço que replica máquinas virtuais entre regiões
+ Um serviço que controla tráfego entre redes privadas
+ Um serviço que armazena arquivos em camadas de acesso
+Resposta: Um serviço que extrai informações estruturadas de documentos
+Explicação: Ele identifica campos, tabelas e textos automaticamente.
+Categoria: IA/ML
+
+Qual é a função principal do Azure Face API?
+ Analisar características faciais em imagens
+ Gerenciar identidades de usuários em aplicações
+ Armazenar dados de forma distribuída
+ Criar redes privadas isoladas
+Resposta: Analisar características faciais em imagens
+Explicação: Ele detecta rostos, emoções e atributos.
+Categoria: IA/ML
+
+O que é o Azure Database for MariaDB?
+ Um serviço gerenciado que hospeda bancos MariaDB na nuvem
+ Um serviço destinado ao armazenamento de objetos
+ Um mecanismo para criação de redes virtuais
+ Um ambiente para execução de máquinas virtuais
+Resposta: Um serviço gerenciado que hospeda bancos MariaDB na nuvem
+Explicação: Ele oferece alta disponibilidade e gerenciamento simplificado.
+Categoria: Infraestrutura
+
+Qual é a principal função do Azure Cache for Redis?
+ Fornecer armazenamento em memória para acelerar aplicações
+ Criar redes privadas isoladas
+ Gerenciar identidades e acessos
+ Provisionar máquinas virtuais sob demanda
+Resposta: Fornecer armazenamento em memória para acelerar aplicações
+Explicação: Redis melhora desempenho reduzindo latência de leitura.
+Categoria: Infraestrutura
+
+Qual é a principal função do Azure Cost Management + Billing?
+ Monitorar, analisar e otimizar custos de recursos na nuvem
+ Criar ambientes de execução para aplicações web
+ Gerenciar redes híbridas
+ Armazenar dados em múltiplas regiões
+Resposta: Monitorar, analisar e otimizar custos de recursos na nuvem
+Explicação: Ele ajuda a controlar gastos e prever consumo.
+Categoria: Custos
+
+O que é o Azure Policy?
+ Um serviço que aplica regras e restrições sobre recursos para garantir conformidade
+ Um serviço que replica dados entre regiões
+ Um mecanismo para criação de redes privadas
+ Um ambiente para execução de máquinas virtuais
+Resposta: Um serviço que aplica regras e restrições sobre recursos para garantir conformidade
+Explicação: Ele assegura que recursos sigam padrões definidos.
+Categoria: Governança
+
+O que é IaaS?
+ Um modelo que fornece infraestrutura virtualizada como servidores e redes
+ Um serviço que entrega softwares completos pela internet
+ Um ambiente que fornece ferramentas de desenvolvimento
+ Um mecanismo que gerencia bancos de dados relacionais
+Resposta: Um modelo que fornece infraestrutura virtualizada como servidores e redes
+Explicação: IaaS oferece controle sobre máquinas, redes e armazenamento.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite criar máquinas virtuais?
+ Um serviço que provisiona e gerencia VMs na nuvem
+ Um ambiente serverless para execução de funções
+ Um serviço de armazenamento de objetos
+ Um diretório para autenticação e autorização
+Resposta: Um serviço que provisiona e gerencia VMs na nuvem
+Explicação: Azure Virtual Machines cria e administra VMs.
+Categoria: Infraestrutura
+
+O que é PaaS?
+ Um modelo que fornece plataforma para desenvolvimento sem gerenciar infraestrutura
+ Um serviço que entrega softwares completos pela internet
+ Um mecanismo que fornece servidores virtuais
+ Um ambiente que replica dados entre regiões
+Resposta: Um modelo que fornece plataforma para desenvolvimento sem gerenciar infraestrutura
+Explicação: PaaS abstrai servidores, redes e sistemas operacionais.
+Categoria: Infraestrutura
+
+Qual serviço do Azure permite implantar aplicativos web sem gerenciar servidores?
+ Um serviço que hospeda aplicações web com gerenciamento automatizado
+ Um ambiente para criação de máquinas virtuais
+ Um serviço de redes privadas
+ Um mecanismo para armazenamento de arquivos
+Resposta: Um serviço que hospeda aplicações web com gerenciamento automatizado
+Explicação: Azure App Service executa aplicações sem gerenciar servidores.
+Categoria: Infraestrutura
+
+O que é SaaS?
+ Um modelo que entrega softwares completos prontos para uso pela internet
+ Um ambiente que fornece infraestrutura virtualizada
+ Um serviço que oferece ferramentas de desenvolvimento
+ Um mecanismo para replicação de dados
+Resposta: Um modelo que entrega softwares completos prontos para uso pela internet
+Explicação: SaaS disponibiliza aplicativos como serviço.
+Categoria: Infraestrutura
+
+Qual serviço do Azure oferece aplicativos de produtividade como o Microsoft 365?
+ Um conjunto de aplicativos fornecidos como software pronto para uso
+ Um ambiente para execução de funções serverless
+ Um serviço de redes privadas
+ Um mecanismo para criação de máquinas virtuais
+Resposta: Um conjunto de aplicativos fornecidos como software pronto para uso
+Explicação: Microsoft 365 é um exemplo de SaaS.
+Categoria: SaaS 
+
+O que é o Azure Speech Service?
+ Um serviço que processa e interpreta áudio para aplicações inteligentes
+ Um mecanismo usado para organizar redes privadas na nuvem
+ Um ambiente destinado ao armazenamento de dados não estruturados
+ Um serviço voltado ao gerenciamento de bancos de dados relacionais
+Resposta: Um serviço que processa e interpreta áudio para aplicações inteligentes
+Explicação: Ele converte fala em texto, texto em fala e reconhece comandos de voz.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Text Analytics?
+ Extrair informações relevantes de textos por meio de análise linguística
+ Gerenciar redes virtuais e conexões entre serviços
+ Criar ambientes de execução para aplicações distribuídas
+ Armazenar documentos em estruturas de dados otimizadas
+Resposta: Extrair informações relevantes de textos por meio de análise linguística
+Explicação: Ele identifica sentimentos, entidades e tópicos.
+Categoria: IA/ML
+
+O que é o Azure Translator?
+ Um serviço que realiza tradução automática entre diferentes idiomas
+ Um mecanismo que organiza redes privadas e subredes
+ Um ambiente destinado ao armazenamento de arquivos
+ Um serviço que gerencia bancos de dados distribuídos
+Resposta: Um serviço que realiza tradução automática entre diferentes idiomas
+Explicação: Ele permite criar aplicações multilíngues.
+Categoria: IA/ML
+
+O que é o Azure Anomaly Detector?
+ Um serviço que identifica comportamentos incomuns em séries temporais
+ Um mecanismo que controla permissões de acesso a recursos
+ Um ambiente para execução de máquinas virtuais
+ Um serviço que replica dados entre regiões
+Resposta: Um serviço que identifica comportamentos incomuns em séries temporais
+Explicação: Ele detecta desvios e padrões atípicos.
+Categoria: IA/ML
+
+Qual é a principal função do Azure Virtual Machines?
+ Provisionar e executar máquinas virtuais com controle total do sistema
+ Organizar redes privadas e conexões entre subredes
+ Gerenciar identidades e autenticação de usuários
+ Orquestrar contêineres em clusters distribuídos
+Resposta: Provisionar e executar máquinas virtuais com controle total do sistema
+Explicação: VMs oferecem flexibilidade e controle sobre o ambiente.
+Categoria: Infraestrutura
+
+Qual é a principal função do Azure Data Factory?
+ Orquestrar fluxos de dados entre sistemas e realizar transformações
+ Criar bancos de dados relacionais gerenciados
+ Gerenciar redes virtuais e conexões híbridas
+ Provisionar máquinas virtuais sob demanda
+Resposta: Orquestrar fluxos de dados entre sistemas e realizar transformações
+Explicação: Ele integra dados de diversas fontes.
+Categoria: Infraestrutura
+
+O que é o Azure App Service?
+ Uma plataforma gerenciada para hospedar aplicações web e APIs
+ Um serviço destinado ao armazenamento de objetos
+ Um ambiente para criação de máquinas virtuais
+ Um mecanismo para organizar redes privadas
+Resposta: Uma plataforma gerenciada para hospedar aplicações web e APIs
+Explicação: Ele permite implantar aplicações sem gerenciar servidores.
+Categoria: Infraestrutura
+
+Em um par de regiões, uma região é emparelhada com outra região na mesma:
+ Geografia definida pelo provedor para garantir continuidade operacional
+ Zona de disponibilidade configurada para redundância local
+ Estrutura física compartilhada entre datacenters próximos
+ Camada lógica usada para agrupar recursos relacionados
+Resposta: Geografia definida pelo provedor para garantir continuidade operacional
+Explicação: Regiões emparelhadas ficam na mesma geografia.
+Categoria: Infraestrutura
+
+Uma conta de armazenamento chamada storage001 é um exemplo de:
+ Um recurso individual gerenciado dentro de uma assinatura
+ Um agrupamento lógico que contém múltiplos recursos
+ Um mecanismo usado para organizar políticas de acesso
+ Uma estrutura que representa o nível de cobrança da nuvem
+Resposta: Um recurso individual gerenciado dentro de uma assinatura
+Explicação: Recursos são itens específicos como VMs e contas de armazenamento.
+Categoria: Infraestrutura
+
+Qual recurso você pode usar para gerenciar acesso, políticas e conformidade em várias assinaturas?
+ Um agrupamento hierárquico que organiza assinaturas sob um mesmo escopo
+ Um conjunto de usuários com permissões específicas
+ Um contêiner lógico que armazena recursos relacionados
+ Um mecanismo que define regras de rede entre ambientes
+Resposta: Um agrupamento hierárquico que organiza assinaturas sob um mesmo escopo
+Explicação: Grupos de gerenciamento aplicam governança em escala.
+Categoria: Governança
+
+Quais dois recursos do Azure podem usar zonas de disponibilidade?
+ Máquinas virtuais e bancos de dados SQL
+ Assinaturas e grupos de recursos
+ Redes virtuais e contas de armazenamento
+ Contêineres e funções serverless
+Resposta: Máquinas virtuais e bancos de dados SQL
+Explicação: Zonas garantem alta disponibilidade para serviços críticos.
+Categoria: Infraestrutura
+
+Qual recurso do Azure é uma emulação de software de um computador físico?
+ Uma máquina virtual executada em ambiente isolado
+ Um contêiner que compartilha kernel com o host
+ Uma função executada sob demanda
+ Um serviço de aplicativo gerenciado
+Resposta: Uma máquina virtual executada em ambiente isolado
+Explicação: VMs simulam hardware completo.
+Categoria: Infraestrutura
+
+Qual serviço permite implantar e gerenciar um conjunto de máquinas virtuais idênticas?
+ Um conjunto de dimensionamento que replica e escala VMs automaticamente
+ Uma zona de disponibilidade que distribui cargas entre datacenters
+ Um contêiner isolado executado sob demanda
+ Um serviço que hospeda aplicações web
+Resposta: Um conjunto de dimensionamento que replica e escala VMs automaticamente
+Explicação: Scale Sets criam VMs idênticas com escalabilidade.
+Categoria: Infraestrutura
+
+O que você pode usar para executar código em ambiente sem servidor?
+ Um serviço que executa funções sob demanda sem gerenciar infraestrutura
+ Um contêiner isolado que roda aplicações empacotadas
+ Uma máquina virtual configurada para execução automática
+ Um serviço que hospeda aplicações web gerenciadas
+Resposta: Um serviço que executa funções sob demanda sem gerenciar infraestrutura
+Explicação: Azure Functions é serverless.
+Categoria: Infraestrutura
+
+Qual cenário é um caso de uso para um gateway de VPN?
+ Conectar redes locais a redes virtuais na nuvem
+ Filtrar tráfego de saída entre subredes
+ Criar isolamento entre máquinas virtuais
+ Executar aplicações em contêineres
+Resposta: Conectar redes locais a redes virtuais na nuvem
+Explicação: Gateways VPN fazem conexões sitetosite.
+Categoria: Infraestrutura
+
+O que você pode usar para conectar serviços PaaS a uma rede virtual?
+ Pontos de extremidade que estendem a VNet até serviços gerenciados
+ Regras de segurança aplicadas a subredes específicas
+ Emparelhamento entre VNets distintas
+ Túneis criptografados entre datacenters
+Resposta: Pontos de extremidade que estendem a VNet até serviços gerenciados
+Explicação: Service Endpoints conectam serviços PaaS à VNet.
+Categoria: Infraestrutura
+
+O que permite acesso a um ambiente Windows a partir de dispositivos diversos?
+ Um serviço que fornece desktops virtuais acessíveis remotamente
+ Um contêiner executado em ambiente isolado
+ Uma função que roda sob demanda
+ Um serviço que hospeda aplicações web
+Resposta: Um serviço que fornece desktops virtuais acessíveis remotamente
+Explicação: Azure Virtual Desktop oferece desktops Windows.
+Categoria: Infraestrutura
+
+O que garante que um usuário só acesse aplicativos de dispositivos compatíveis?
+ Uma política que avalia condições antes de conceder acesso
+ Um mecanismo que exige múltiplos fatores de autenticação
+ Um processo que replica identidades entre ambientes
+ Um sistema que centraliza permissões de usuários
+Resposta: Uma política que avalia condições antes de conceder acesso
+Explicação: Acesso Condicional aplica regras baseadas em dispositivo.
+Categoria: Segurança
+
+Qual estratégia usa múltiplas camadas de proteção para mitigar ataques?
+ Uma abordagem que distribui defesas em diferentes níveis
+ Um mecanismo que limita privilégios de usuários
+ Um ataque que sobrecarrega serviços com tráfego
+ Um modelo baseado apenas em perímetro
+Resposta: Uma abordagem que distribui defesas em diferentes níveis
+Explicação: Defesa em profundidade usa camadas sucessivas.
+Categoria: Segurança
+
+Qual recurso do Microsoft Entra exige autenticação com celular?
+ Um mecanismo que solicita um segundo fator de verificação
+ Um serviço que protege documentos sensíveis
+ Um sistema que monitora ameaças em nuvem
+ Um recurso que valida identidades descentralizadas
+Resposta: Um mecanismo que solicita um segundo fator de verificação
+Explicação: MFA exige SMS, chamada ou app.
+Categoria: Segurança
+
+Quais são dois serviços fornecidos pelo Microsoft Entra?
+ Autenticação e logon único
+ Criptografia e replicação
+ DNS e roteamento
+ Backup e restauração
+Resposta: Autenticação e logon único
+Explicação: Entra fornece autenticação e SSO.
+Categoria: Segurança
+
+O que sincroniza identidades locais com o Microsoft Entra?
+ Um serviço que conecta diretórios locais ao diretório na nuvem
+ Um mecanismo que armazena chaves criptográficas
+ Um modelo que descreve recursos em JSON
+ Uma política que controla acesso baseado em risco
+Resposta: Um serviço que conecta diretórios locais ao diretório na nuvem
+Explicação: Entra Connect sincroniza identidades.
+Categoria: Segurança
+
+Quais são dois recursos do Gerenciamento de Custos + Cobrança?
+ Criar orçamentos e monitorar tendências de consumo
+ Gerenciar identidades e permissões
+ Criptografar dados em repouso
+ Configurar redes privadas
+Resposta: Criar orçamentos e monitorar tendências de consumo
+Explicação: Ele ajuda a controlar gastos e prever uso.
+Categoria: Custos
+
+O que permite associar custos sem mover recursos?
+ Marcas aplicadas a recursos para categorização
+ Grupos de recursos que organizam serviços
+ Assinaturas que definem limites de cobrança
+ Unidades administrativas que agrupam usuários
+Resposta: Marcas aplicadas a recursos para categorização
+Explicação: Tags categorizam custos sem alterar estrutura.
+Categoria: Custos
+
+O que impede exclusão acidental de um recurso?
+ Um bloqueio aplicado ao recurso
+ Uma marca de categorização
+ Uma política de conformidade
+ Uma reserva de capacidade
+Resposta: Um bloqueio aplicado ao recurso
+Explicação: Bloqueios evitam exclusão ou alteração.
+Categoria: Governança
+
+O que impõe padrões corporativos em VMs?
+ Uma política que aplica regras e conformidade automaticamente
+ Um bloqueio que impede alterações
+ Um mecanismo de cobrança
+ Uma configuração de dispositivo
+Resposta: Uma política que aplica regras e conformidade automaticamente
+Explicação: Azure Policy impõe padrões.
+Categoria: Governança
+
+Quais são duas ações possíveis no portal do Azure?
+ Criar recursos e gerenciar identidades
+ Alterar zona de disponibilidade de uma VM
+ Atribuir permissões de negação
+ Modificar hardware físico
+Resposta: Criar recursos e gerenciar identidades
+Explicação: O portal permite criar recursos e administrar usuários.
+Categoria: Infraestrutura
+
+O que define recursos em formato JSON declarativo?
+ Um modelo que descreve infraestrutura como código
+ Um script executado por linha de comando
+ Um repositório de códigofonte
+ Um módulo usado para automação de tarefas
+Resposta: Um modelo que descreve infraestrutura como código
+Explicação: ARM Templates definem recursos em JSON.
+Categoria: Infraestrutura
+
+O que é o Azure Dedicated SQL Pool (Synapse)?
+ Um mecanismo que fornece processamento paralelo para cargas analíticas em larga escala
+ Um serviço que organiza redes virtuais e conexões entre regiões
+ Um ambiente destinado ao gerenciamento de identidades corporativas
+ Um sistema voltado ao armazenamento de arquivos distribuídos
+Resposta: Um mecanismo que fornece processamento paralelo para cargas analíticas em larga escala
+Explicação: O Dedicated SQL Pool oferece data warehousing massivamente paralelo.
+Categoria: Dados
+
+O que é o Azure Data Explorer (ADX)?
+ Um mecanismo otimizado para consultas rápidas sobre grandes volumes de dados de telemetria
+ Um serviço que gerencia redes privadas e rotas internas
+ Um ambiente destinado ao controle de identidades e permissões
+ Um sistema que armazena arquivos em camadas de acesso
+Resposta: Um mecanismo otimizado para consultas rápidas sobre grandes volumes de dados de telemetria
+Explicação: ADX é ideal para análise de logs e telemetria.
+Categoria: Dados
+
+O que é o Azure Monitor Metrics?
+ Um serviço que coleta métricas numéricas de desempenho em alta granularidade
+ Um mecanismo que organiza redes virtuais e subredes
+ Um ambiente destinado ao gerenciamento de identidades
+ Um sistema que replica dados entre regiões
+Resposta: Um serviço que coleta métricas numéricas de desempenho em alta granularidade
+Explicação: Metrics coleta dados com granularidade de segundos.
+Categoria: Observabilidade
+
+O que é o Azure Monitor Logs?
+ Um repositório consultável que armazena logs estruturados e não estruturados
+ Um mecanismo que controla permissões de acesso a redes
+ Um ambiente para execução de máquinas virtuais
+ Um sistema que armazena arquivos em múltiplas regiões
+Resposta: Um repositório consultável que armazena logs estruturados e não estruturados
+Explicação: Logs usa KQL para consultas avançadas.
+Categoria: Observabilidade
+
+O que é o Azure Advisor Security?
+ Um conjunto de recomendações que melhora a postura de segurança com base em melhores práticas
+ Um mecanismo que organiza redes privadas e rotas internas
+ Um ambiente destinado ao armazenamento de dados sensíveis
+ Um sistema que replica máquinas virtuais entre regiões
+Resposta: Um conjunto de recomendações que melhora a postura de segurança com base em melhores práticas
+Explicação: Ele identifica riscos e sugere correções.
+Categoria: Segurança
+
+O que é o Azure Bastion Premium?
+ Uma versão avançada que adiciona auditoria e gravação de sessões remotas
+ Um mecanismo que organiza redes privadas e subredes
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que gerencia identidades corporativas
+Resposta: Uma versão avançada que adiciona auditoria e gravação de sessões remotas
+Explicação: Bastion Premium grava sessões RDP/SSH.
+Categoria: Segurança
+
+O que é o Azure Virtual Network Manager?
+ Um serviço que gerencia topologias de rede em escala e múltiplas assinaturas
+ Um ambiente destinado ao armazenamento de dados distribuídos
+ Um mecanismo que controla identidades e permissões
+ Um sistema que executa contêineres isolados
+Resposta: Um serviço que gerencia topologias de rede em escala e múltiplas assinaturas
+Explicação: Ele centraliza políticas e conectividade.
+Categoria: Infraestrutura
+
+O que é o Azure Route Server?
+ Um serviço que permite troca dinâmica de rotas com appliances virtuais via BGP
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente para execução de máquinas virtuais
+ Um sistema que armazena arquivos em múltiplas regiões
+Resposta: Um serviço que permite troca dinâmica de rotas com appliances virtuais via BGP
+Explicação: Ele facilita integração com appliances de rede.
+Categoria: Infraestrutura
+
+O que é o Azure Private Link?
+ Um serviço que conecta serviços PaaS a redes privadas sem expor IP público
+ Um mecanismo que organiza identidades e permissões
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica dados entre regiões
+Resposta: Um serviço que conecta serviços PaaS a redes privadas sem expor IP público
+Explicação: Private Link cria conexões privadas para serviços Azure.
+Categoria: Infraestrutura
+
+O que é o Azure Key Vault Managed HSM?
+ Um módulo de segurança de hardware gerenciado para proteção de chaves criptográficas
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um módulo de segurança de hardware gerenciado para proteção de chaves criptográficas
+Explicação: Managed HSM oferece segurança de nível empresarial.
+Categoria: Segurança
+
+O que é o Azure Policy Guest Configuration?
+ Um recurso que aplica políticas dentro do sistema operacional de VMs e servidores híbridos
+ Um mecanismo que organiza redes privadas e subredes
+ Um ambiente destinado ao armazenamento de dados
+ Um sistema que replica máquinas virtuais
+Resposta: Um recurso que aplica políticas dentro do sistema operacional de VMs e servidores híbridos
+Explicação: Ele valida configurações internas do SO.
+Categoria: Governança
+
+O que é o Azure Lighthouse Delegation?
+ Um mecanismo que permite delegar gerenciamento entre tenants de forma segura
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica dados entre regiões
+ Um serviço que organiza redes privadas
+Resposta: Um mecanismo que permite delegar gerenciamento entre tenants de forma segura
+Explicação: Lighthouse facilita gestão multi‑tenant.
+Categoria: Governança
+
+O que é o Azure Container Apps?
+ Um serviço serverless que executa contêineres sem necessidade de Kubernetes
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço serverless que executa contêineres sem necessidade de Kubernetes
+Explicação: Ele escala automaticamente com base em eventos.
+Categoria: Contêineres
+
+O que é o Azure Functions Premium Plan?
+ Um plano com instâncias préaquecidas e escalabilidade avançada para workloads serverless
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um plano com instâncias préaquecidas e escalabilidade avançada para workloads serverless
+Explicação: Evita cold start e suporta VNet.
+Categoria: Computação
+
+O que é o Azure Logic Apps Standard?
+ Uma versão isolada e mais performática do Logic Apps executada em ambiente dedicado
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de dados
+ Um sistema que replica máquinas virtuais
+Resposta: Uma versão isolada e mais performática do Logic Apps executada em ambiente dedicado
+Explicação: Oferece mais controle e performance.
+Categoria: Integração
+
+O que é o Azure SQL Managed Instance?
+ Um serviço SQL altamente compatível com SQL Server em ambiente gerenciado
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica dados entre regiões
+Resposta: Um serviço SQL altamente compatível com SQL Server em ambiente gerenciado
+Explicação: Ele oferece compatibilidade quase total com SQL Server.
+Categoria: Dados
+
+O que é o Azure Database Migration Service?
+ Um serviço que automatiza migrações de bancos de dados para o Azure
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço que automatiza migrações de bancos de dados para o Azure
+Explicação: DMS facilita migrações locais e na nuvem.
+Categoria: Dados
+
+O que é o Azure HPC Cache?
+ Um cache de alto desempenho para workloads intensivas de computação
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um cache de alto desempenho para workloads intensivas de computação
+Explicação: Ele acelera acesso a dados em HPC.
+Categoria: Computação
+
+O que é o Azure Orbital?
+ Um serviço que permite comunicação e processamento de dados de satélites
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço que permite comunicação e processamento de dados de satélites
+Explicação: Orbital integra antenas e processamento espacial.
+Categoria: Infraestrutura
+
+O que é o Azure Quantum?
+ Uma plataforma para desenvolvimento e execução de algoritmos quânticos
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica dados entre regiões
+Resposta: Uma plataforma para desenvolvimento e execução de algoritmos quânticos
+Explicação: Azure Quantum oferece hardware e simuladores.
+Categoria: Computação
+
+O que é o Azure Front Door?
+ Um serviço global de entrega de aplicativos com aceleração e proteção integrada
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço global de entrega de aplicativos com aceleração e proteção integrada
+Explicação: Front Door combina CDN, WAF e roteamento global.
+Categoria: Infraestrutura
+
+O que é o Azure Peering Service?
+ Um serviço que otimiza a rota entre ISPs e o Azure para melhor conectividade
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica dados entre regiões
+Resposta: Um serviço que otimiza a rota entre ISPs e o Azure para melhor conectividade
+Explicação: Melhora latência e confiabilidade.
+Categoria: Infraestrutura
+
+O que é o Azure NAT Gateway?
+ Um serviço que fornece saída de internet estável e escalável para VNets
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um serviço que fornece saída de internet estável e escalável para VNets
+Explicação: NAT Gateway evita exposição de IPs internos.
+Categoria: Infraestrutura
+
+O que é o Azure Load Testing?
+ Um serviço que simula carga para avaliar desempenho e resiliência de aplicativos
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço que simula carga para avaliar desempenho e resiliência de aplicativos
+Explicação: Ele testa limites e comportamento sob estresse.
+Categoria: Observabilidade
+
+O que é o Azure Managed Grafana?
+ Um serviço gerenciado para visualização de métricas e criação de dashboards
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um serviço gerenciado para visualização de métricas e criação de dashboards
+Explicação: Grafana gerenciado integra dados do Azure.
+Categoria: Observabilidade
+
+O que é o Azure Chaos Studio?
+ Um serviço que testa resiliência simulando falhas controladas em sistemas
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço que testa resiliência simulando falhas controladas em sistemas
+Explicação: Chaos Engineering para validar robustez.
+Categoria: Infraestrutura
+
+O que é o Azure Communication Services?
+ Um serviço que adiciona chamadas, chat e SMS a aplicativos
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um serviço que adiciona chamadas, chat e SMS a aplicativos
+Explicação: Ele integra comunicação em tempo real.
+Categoria: Integração
+
+O que é o Azure SignalR Service?
+ Um serviço que fornece comunicação em tempo real entre clientes e servidores
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica máquinas virtuais
+Resposta: Um serviço que fornece comunicação em tempo real entre clientes e servidores
+Explicação: Ideal para notificações e atualizações instantâneas.
+Categoria: Integração
+
+O que é o Azure Cognitive Search Semantic Search?
+ Um recurso que melhora buscas interpretando contexto e intenção do usuário
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um recurso que melhora buscas interpretando contexto e intenção do usuário
+Explicação: IA semântica aprimora relevância de resultados.
+Categoria: IA
+
+O que é o Azure Machine Learning Designer?
+ Uma ferramenta visual que permite criar pipelines de machine learning sem código
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que replica máquinas virtuais
+Resposta: Uma ferramenta visual que permite criar pipelines de machine learning sem código
+Explicação: Designer facilita criação de modelos.
+Categoria: IA
+
+O que é o Azure Machine Learning Compute Cluster?
+ Um cluster escalável usado para treinar modelos de IA conforme demanda
+ Um mecanismo que organiza identidades corporativas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica dados entre regiões
+Resposta: Um cluster escalável usado para treinar modelos de IA conforme demanda
+Explicação: Ele ajusta capacidade automaticamente.
+Categoria: IA
+
+O que é o Azure Purview Data Map?
+ Um catálogo automático que identifica e classifica dados corporativos
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de arquivos
+ Um sistema que gerencia identidades corporativas
+Resposta: Um catálogo automático que identifica e classifica dados corporativos
+Explicação: Data Map mapeia e governa dados.
+Categoria: Governança
+
+O que é o Azure Sentinel Playbook?
+ Uma automação de resposta a incidentes construída com Logic Apps
+ Um mecanismo que organiza redes privadas
+ Um ambiente destinado ao armazenamento de objetos
+ Um sistema que replica máquinas virtuais
+Resposta: Uma automação de resposta a incidentes construída com Logic Apps
+Explicação: Playbooks automatizam ações de segurança.
+Categoria: Segurança
+
+O que é o Azure Firewall Premium?
+Uma solução que aplica inspeção avançada em tráfego criptografado e políticas detalhadas  
+Um ambiente que mantém dados sensíveis em estruturas de armazenamento isoladas  
+Um mecanismo que administra identidades e permissões em aplicações corporativas  
+Um recurso que organiza rotas internas entre redes virtuais distribuídas  
+Resposta: Uma solução que aplica inspeção avançada em tráfego criptografado e políticas detalhadas  
+Explicação: A versão Premium adiciona inspeção TLS e filtragem avançada.  
+Categoria: Segurança
+
+O que é o Azure DDoS Protection Standard?
+Um serviço que mitiga ataques distribuídos usando análise contínua e respostas automáticas  
+Um ambiente que armazena arquivos distribuídos com regras de retenção configuráveis  
+Um mecanismo que controla permissões aplicadas a redes privadas híbridas  
+Um recurso que replica dados entre regiões para continuidade operacional  
+Resposta: Um serviço que mitiga ataques distribuídos usando análise contínua e respostas automáticas  
+Explicação: A proteção Standard oferece mitigação automática e relatórios detalhados.  
+Categoria: Segurança
+
+O que é o Azure ExpressRoute Direct?
+Uma conexão privada de alta capacidade que liga clientes diretamente ao backbone Azure  
+Um ambiente que armazena objetos distribuídos com controle granular de acesso  
+Um mecanismo que organiza redes virtuais isoladas em múltiplas regiões geográficas  
+Um recurso que administra identidades corporativas em ambientes híbridos  
+Resposta: Uma conexão privada de alta capacidade que liga clientes diretamente ao backbone Azure  
+Explicação: O ExpressRoute Direct oferece conexões dedicadas de até 100 Gbps.  
+Categoria: Infraestrutura
+
+O que é o Azure VMware Solution?
+Um serviço que executa ambientes VMware no Azure sem necessidade de refatoração  
+Um mecanismo que controla rotas internas entre VNets emparelhadas  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um recurso que gerencia certificados digitais utilizados por aplicações corporativas  
+Resposta: Um serviço que executa ambientes VMware no Azure sem necessidade de refatoração  
+Explicação: Permite migrar ambientes VMware para o Azure sem alterações no código.  
+Categoria: Infraestrutura
+
+O que é o Azure Spring Apps?
+Um serviço gerenciado que executa aplicações Spring Boot com escalabilidade integrada  
+Um mecanismo que organiza redes privadas e subredes em topologias distribuídas  
+Um ambiente que replica dados entre regiões utilizando políticas configuráveis  
+Um recurso que administra identidades e autenticação em serviços corporativos  
+Resposta: Um serviço gerenciado que executa aplicações Spring Boot com escalabilidade integrada  
+Explicação: O Spring Apps facilita a execução de aplicações Java Spring no Azure.  
+Categoria: Computação
+
+O que é o Azure Container Registry Tasks?
+Um serviço que automatiza builds e atualizações de imagens de contêiner em pipelines contínuos  
+Um ambiente que armazena arquivos em camadas com políticas de retenção definidas  
+Um mecanismo que organiza rotas internas entre redes virtuais híbridas  
+Um recurso que administra chaves criptográficas usadas por aplicações distribuídas  
+Resposta: Um serviço que automatiza builds e atualizações de imagens de contêiner em pipelines contínuos  
+Explicação: O ACR Tasks permite automação completa de imagens.  
+Categoria: Contêineres
+
+O que é o Azure Data Factory Integration Runtime?
+A infraestrutura que executa atividades de integração e transformação dentro de fluxos de dados  
+Um ambiente que armazena objetos distribuídos com controle granular de acesso  
+Um mecanismo que organiza redes privadas e conexões híbridas entre ambientes distintos  
+Um recurso que administra identidades corporativas aplicadas a serviços distribuídos  
+Resposta: A infraestrutura que executa atividades de integração e transformação dentro de fluxos de dados  
+Explicação: O Integration Runtime executa cópias, transformações e pipelines.  
+Categoria: Dados
+
+O que é o Azure SQL Edge?
+Um banco SQL otimizado para dispositivos IoT e cenários de processamento em borda  
+Um ambiente que armazena dados não estruturados com replicação automática configurável  
+Um mecanismo que organiza rotas internas entre VNets conectadas por emparelhamento  
+Um recurso que administra certificados digitais utilizados por aplicações corporativas  
+Resposta: Um banco SQL otimizado para dispositivos IoT e cenários de processamento em borda  
+Explicação: O SQL Edge oferece processamento local com baixa latência.  
+Categoria: Dados
+
+O que é o Azure App Configuration?
+Um serviço que centraliza configurações e parâmetros de aplicações corporativas  
+Um mecanismo que organiza redes privadas e subredes em ambientes distribuídos  
+Um recurso que replica dados entre regiões com políticas definidas  
+Um ambiente que armazena objetos distribuídos com controle granular de acesso  
+Resposta: Um serviço que centraliza configurações e parâmetros de aplicações corporativas  
+Explicação: O App Configuration facilita o gerenciamento centralizado de configurações.  
+Categoria: Integração
+
+O que é o Azure Key Vault Secrets?
+Um serviço que armazena segredos como senhas, chaves e tokens com segurança  
+Um ambiente que armazena arquivos criptografados em múltiplas camadas  
+Um mecanismo que organiza rotas internas entre redes virtuais híbridas  
+Um recurso que administra identidades corporativas em serviços distribuídos  
+Resposta: Um serviço que armazena segredos como senhas, chaves e tokens com segurança  
+Explicação: O Key Vault protege informações sensíveis com criptografia forte.  
+Categoria: Segurança
+
+O que é o Azure Key Vault Certificates?
+Um serviço que gerencia certificados digitais utilizados por aplicações e serviços  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e subredes corporativas  
+Um recurso que replica dados entre regiões para continuidade operacional  
+Resposta: Um serviço que gerencia certificados digitais utilizados por aplicações e serviços  
+Explicação: O Key Vault automatiza emissão, renovação e armazenamento de certificados.  
+Categoria: Segurança
+
+O que é o Azure Blob Lifecycle Management?
+Um recurso que move dados automaticamente entre camadas de armazenamento conforme regras  
+Um ambiente que armazena objetos distribuídos com controle granular de acesso  
+Um mecanismo que organiza rotas internas entre VNets conectadas  
+Um recurso que administra identidades corporativas aplicadas a serviços  
+Resposta: Um recurso que move dados automaticamente entre camadas de armazenamento conforme regras  
+Explicação: O ciclo de vida reduz custos movendo dados automaticamente.  
+Categoria: Dados
+
+O que é o Azure Files Sync?
+Um serviço que sincroniza servidores de arquivos locais com Azure Files mantendo caches locais  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um recurso que administra certificados digitais corporativos  
+Resposta: Um serviço que sincroniza servidores de arquivos locais com Azure Files mantendo caches locais  
+Explicação: O File Sync centraliza arquivos no Azure sem perder desempenho local.  
+Categoria: Infraestrutura
+
+O que é o Azure Monitor Application Map?
+Uma visualização que mostra dependências e interações entre componentes de um aplicativo  
+Um mecanismo que organiza rotas internas entre redes distribuídas  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um recurso que replica dados entre regiões para continuidade  
+Resposta: Uma visualização que mostra dependências e interações entre componentes de um aplicativo  
+Explicação: O Application Map revela conexões e gargalos entre serviços.  
+Categoria: Observabilidade
+
+O que é o Azure SQL Hyperscale?
+Um mecanismo de banco de dados altamente escalável com armazenamento distribuído  
+Um ambiente que armazena arquivos em camadas com retenção configurável  
+Um recurso que administra identidades corporativas em serviços  
+Um mecanismo que organiza redes privadas e subredes  
+Resposta: Um mecanismo de banco de dados altamente escalável com armazenamento distribuído  
+Explicação: O Hyperscale permite crescimento rápido e armazenamento elástico.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB Gremlin API?
+Uma API que permite trabalhar com grafos e relacionamentos complexos  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza rotas internas entre VNets  
+Um recurso que administra certificados digitais corporativos  
+Resposta: Uma API que permite trabalhar com grafos e relacionamentos complexos  
+Explicação: A API Gremlin é usada para modelagem de grafos.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB Table API?
+Uma API compatível com Azure Table Storage para dados chave‑valor  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um recurso que replica dados entre regiões com políticas definidas  
+Resposta: Uma API compatível com Azure Table Storage para dados chave‑valor  
+Explicação: A Table API oferece armazenamento NoSQL simples e escalável.  
+Categoria: Dados
+
+O que é o Azure Event Hub Capture?
+Um recurso que grava automaticamente dados de streaming em armazenamento para análise  
+Um mecanismo que organiza rotas internas entre redes virtuais  
+Um ambiente que armazena arquivos distribuídos com retenção configurável  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Um recurso que grava automaticamente dados de streaming em armazenamento para análise  
+Explicação: O Capture facilita ingestão contínua de dados.  
+Categoria: Integração
+
+O que é o Azure Stream Analytics?
+Um serviço que processa eventos em tempo real usando consultas declarativas  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e subredes  
+Um recurso que replica dados entre regiões para continuidade  
+Resposta: Um serviço que processa eventos em tempo real usando consultas declarativas  
+Explicação: O Stream Analytics é ideal para telemetria e IoT.  
+Categoria: Dados
+
+O que é o Azure Data Share?
+Um serviço que permite compartilhar dados entre organizações de forma controlada  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre VNets híbridas  
+Um recurso que administra certificados digitais corporativos  
+Resposta: Um serviço que permite compartilhar dados entre organizações de forma controlada  
+Explicação: O Data Share facilita colaboração segura entre empresas.  
+Categoria: Dados
+
+O que é o Azure Virtual WAN Hub?
+Um ponto central de conectividade que integra filiais, VNets e usuários remotos  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um recurso que replica dados entre regiões com políticas definidas  
+Resposta: Um ponto central de conectividade que integra filiais, VNets e usuários remotos  
+Explicação: O Hub é o núcleo da arquitetura Virtual WAN.  
+Categoria: Infraestrutura
+
+O que é o Azure Monitor Workbooks?
+Uma ferramenta que cria visualizações interativas combinando métricas, logs e consultas  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre redes virtuais  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Uma ferramenta que cria visualizações interativas combinando métricas, logs e consultas  
+Explicação: Workbooks permitem dashboards avançados e dinâmicos.  
+Categoria: Observabilidade
+
+O que é o Azure Backup Vault?
+Um repositório seguro para armazenar e gerenciar backups de recursos  
+Um ambiente que armazena arquivos criptografados em múltiplas camadas  
+Um mecanismo que organiza redes privadas e subredes  
+Um recurso que replica dados entre regiões para continuidade  
+Resposta: Um repositório seguro para armazenar e gerenciar backups de recursos  
+Explicação: O Backup Vault centraliza proteção de dados.  
+Categoria: Segurança
+
+O que é o Azure Site Recovery Replication Policy?
+Uma política que define frequência e retenção da replicação de dados  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre VNets  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Uma política que define frequência e retenção da replicação de dados  
+Explicação: A política controla como e quando dados são replicados.  
+Categoria: Infraestrutura
+
+O que é o Azure IoT Hub?
+Um serviço que conecta, monitora e gerencia dispositivos IoT em escala  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um recurso que replica dados entre regiões para continuidade  
+Resposta: Um serviço que conecta, monitora e gerencia dispositivos IoT em escala  
+Explicação: O IoT Hub é o ponto central de comunicação IoT.  
+Categoria: IoT
+
+O que é o Azure IoT Central?
+Uma plataforma SaaS que permite criar soluções IoT completas sem código  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre VNets  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Uma plataforma SaaS que permite criar soluções IoT completas sem código  
+Explicação: O IoT Central simplifica a criação de soluções IoT.  
+Categoria: IoT
+
+O que é o Azure Sphere?
+Uma plataforma de segurança que combina hardware, SO e serviços para IoT  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e subredes  
+Um recurso que replica dados entre regiões com políticas definidas  
+Resposta: Uma plataforma de segurança que combina hardware, SO e serviços para IoT  
+Explicação: O Sphere protege dispositivos IoT com segurança de ponta a ponta.  
+Categoria: IoT
+
+O que é o Azure Digital Twins?
+Um serviço que cria representações digitais de ambientes físicos  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Um serviço que cria representações digitais de ambientes físicos  
+Explicação: O Digital Twins modela ambientes reais para simulação e análise.  
+Categoria: IoT
+
+O que é o Azure Backup Center?
+Uma central unificada para gerenciar e monitorar backups em larga escala  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e subredes  
+Um recurso que replica dados entre regiões para continuidade  
+Resposta: Uma central unificada para gerenciar e monitorar backups em larga escala  
+Explicação: O Backup Center centraliza operações de backup em todo o ambiente.  
+Categoria: Segurança
+
+O que é o Azure Monitor Autoscale?
+Um recurso que ajusta automaticamente a capacidade de serviços com base em métricas  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre VNets  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Um recurso que ajusta automaticamente a capacidade de serviços com base em métricas  
+Explicação: O Autoscale aumenta ou reduz recursos conforme a demanda.  
+Categoria: Observabilidade
+
+O que é o Azure Virtual Network Peering?
+Uma conexão privada que integra VNets permitindo tráfego direto entre elas  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um recurso que replica dados entre regiões com políticas definidas  
+Resposta: Uma conexão privada que integra VNets permitindo tráfego direto entre elas  
+Explicação: O peering conecta redes sem necessidade de gateways.  
+Categoria: Infraestrutura
+
+O que é o Azure Application Insights Profiler?
+Uma ferramenta que analisa desempenho de código em produção identificando gargalos  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre redes virtuais  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Uma ferramenta que analisa desempenho de código em produção identificando gargalos  
+Explicação: O Profiler ajuda a identificar problemas de performance.  
+Categoria: Observabilidade
+
+O que é o Azure Container Instances GPU?
+Um serviço que executa contêineres com suporte a GPU para workloads intensivas  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e subredes  
+Um recurso que replica dados entre regiões com políticas definidas  
+Resposta: Um serviço que executa contêineres com suporte a GPU para workloads intensivas  
+Explicação: Ideal para IA, renderização e processamento gráfico.  
+Categoria: Contêineres
+
+O que é o Azure SQL GeoReplication?
+Um recurso que replica bancos de dados para outras regiões garantindo alta disponibilidade  
+Um ambiente que armazena objetos distribuídos com controle granular  
+Um mecanismo que organiza rotas internas entre VNets  
+Um recurso que administra identidades corporativas em serviços  
+Resposta: Um recurso que replica bancos de dados para outras regiões garantindo alta disponibilidade  
+Explicação: A replicação geográfica aumenta resiliência e continuidade.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB Autoscale?
+Um recurso que ajusta automaticamente o throughput conforme a demanda  
+Um ambiente que armazena dados estruturados com replicação automática  
+Um mecanismo que organiza redes privadas e conexões híbridas  
+Um recurso que replica dados entre regiões com políticas definidas  
+Resposta: Um recurso que ajusta automaticamente o throughput conforme a demanda  
+Explicação: O Autoscale adapta a capacidade do banco conforme o uso.  
+Categoria: Dados
+
+O que é o Azure Data Factory Data Flow?
+Recurso visual para transformar dados em larga escala  
+Serviço de backup utilizado para retenção de dados  
+Serviço de rede para comunicação entre ambientes  
+Serviço de identidade para autenticação corporativa  
+Resposta: Recurso visual para transformar dados em larga escala  
+Explicação: Data Flows permitem criar pipelines ETL visuais sem necessidade de código.  
+Categoria: Dados
+
+O que é o Azure Virtual Machine ScaleIn Policy?
+Política que define como VMs são removidas durante redução de escala  
+Serviço de backup para máquinas virtuais  
+Serviço de rede para isolamento de tráfego  
+Serviço de identidade para controle de acesso  
+Resposta: Política que define como VMs são removidas durante redução de escala  
+Explicação: A política determina quais instâncias são encerradas primeiro ao reduzir capacidade.  
+Categoria: Infraestrutura
+
+O que é o Azure Advisor Reliability?
+Recomendações para melhorar disponibilidade e resiliência  
+Serviço de backup para ambientes críticos  
+Serviço de rede para otimização de tráfego  
+Serviço de identidade para autenticação avançada  
+Resposta: Recomendações para melhorar disponibilidade e resiliência  
+Explicação: O Advisor sugere melhorias para evitar falhas e interrupções.  
+Categoria: Governança
+
+O que é o Azure Monitor Log Alerts?
+Alertas baseados em consultas KQL  
+Serviço de backup para logs históricos  
+Serviço de rede para monitoramento de tráfego  
+Serviço de identidade para auditoria de usuários  
+Resposta: Alertas baseados em consultas KQL  
+Explicação: Permite criar alertas avançados baseados em consultas sobre logs.  
+Categoria: Observabilidade
+
+O que é o Azure ExpressRoute Global Reach?
+Recurso que conecta redes locais entre si usando o backbone do Azure  
+Serviço de backup para conexões privadas  
+Serviço de rede para roteamento interno  
+Serviço de identidade para autenticação distribuída  
+Resposta: Recurso que conecta redes locais entre si usando o backbone do Azure  
+Explicação: Global Reach permite interligar filiais por meio da infraestrutura do Azure.  
+Categoria: Infraestrutura
+
+O que é o Azure Kubernetes Service Node Pool?
+Conjunto de nós com configurações específicas dentro de um cluster AKS  
+Serviço de backup para clusters Kubernetes  
+Serviço de rede para comunicação entre pods  
+Serviço de identidade para autenticação de workloads  
+Resposta: Conjunto de nós com configurações específicas dentro de um cluster AKS  
+Explicação: Node Pools permitem diferentes tipos de nós no mesmo cluster.  
+Categoria: Contêineres
+
+O que é o Azure Kubernetes Service Cluster Autoscaler?
+Recurso que adiciona ou remove nós automaticamente  
+Serviço de backup para clusters AKS  
+Serviço de rede para balanceamento interno  
+Serviço de identidade para controle de acesso  
+Resposta: Recurso que adiciona ou remove nós automaticamente  
+Explicação: O autoscaler ajusta a capacidade do cluster conforme a demanda.  
+Categoria: Contêineres
+
+O que é o Azure Cognitive Services Personalizer?
+Serviço de IA para recomendações personalizadas em tempo real  
+Serviço de backup para dados de treinamento  
+Serviço de rede para análise de tráfego  
+Serviço de identidade para autenticação de usuários  
+Resposta: Serviço de IA para recomendações personalizadas em tempo real  
+Explicação: O Personalizer usa aprendizado por reforço para personalização contínua.  
+Categoria: IA
+
+O que é o Azure Cognitive Services Anomaly Detector?
+Serviço de IA para detectar anomalias em séries temporais  
+Serviço de backup para dados analíticos  
+Serviço de rede para inspeção de pacotes  
+Serviço de identidade para auditoria de acessos  
+Resposta: Serviço de IA para detectar anomalias em séries temporais  
+Explicação: Identifica padrões incomuns em dados numéricos.  
+Categoria: IA
+
+O que é o Azure Cognitive Services Translator?
+Serviço de tradução automática de textos  
+Serviço de backup para arquivos multilíngues  
+Serviço de rede para roteamento global  
+Serviço de identidade para autenticação federada  
+Resposta: Serviço de tradução automática de textos  
+Explicação: O Translator converte textos entre diversos idiomas.  
+Categoria: IA
+
+O que é o Azure DevOps Artifacts?
+Serviço para armazenar pacotes como NuGet, npm e Maven  
+Serviço de backup para pipelines  
+Serviço de rede para integração contínua  
+Serviço de identidade para controle de permissões  
+Resposta: Serviço para armazenar pacotes como NuGet, npm e Maven  
+Explicação: Artifacts gerencia pacotes usados em pipelines de desenvolvimento.  
+Categoria: Integração
+
+O que é o Azure DevOps Boards?
+Serviço para gerenciar tarefas, sprints e backlog  
+Serviço de backup para projetos  
+Serviço de rede para colaboração interna  
+Serviço de identidade para autenticação de equipes  
+Resposta: Serviço para gerenciar tarefas, sprints e backlog  
+Explicação: Boards organiza trabalho usando metodologias ágeis.  
+Categoria: Integração
+
+O que é o Azure DevOps Pipelines?
+Serviço de CI/CD para automação de builds e deploys  
+Serviço de backup para artefatos de compilação  
+Serviço de rede para distribuição de pacotes  
+Serviço de identidade para controle de acesso  
+Resposta: Serviço de CI/CD para automação de builds e deploys  
+Explicação: Pipelines automatiza compilação, testes e implantação.  
+Categoria: Integração
+
+O que é o Azure Front Door Standard/Premium?
+Serviço de entrega de aplicativos com segurança avançada  
+Serviço de backup para aplicações distribuídas  
+Serviço de rede privada para comunicação interna  
+Serviço de identidade para autenticação corporativa  
+Resposta: Serviço de entrega de aplicativos com segurança avançada  
+Explicação: As versões Standard e Premium incluem WAF, aceleração e roteamento inteligente.  
+Categoria: Infraestrutura
+
+O que é o Azure Virtual Network Gateway?
+Gateway usado para conexões VPN e ExpressRoute  
+Serviço de backup para redes híbridas  
+Serviço de identidade para controle de acesso  
+Serviço de contêineres para workloads distribuídos  
+Resposta: Gateway usado para conexões VPN e ExpressRoute  
+Explicação: O gateway permite comunicação segura entre redes locais e o Azure.  
+Categoria: Infraestrutura
+
+O que é o Azure SQL Elastic Pool?
+Conjunto de bancos SQL que compartilham recursos  
+Serviço de backup para bancos relacionais  
+Serviço de rede para isolamento de tráfego  
+Serviço de identidade para autenticação de usuários  
+Resposta: Conjunto de bancos SQL que compartilham recursos  
+Explicação: Elastic Pools otimizam custos para múltiplos bancos com cargas variáveis.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB SQL API?
+API compatível com consultas SQL para documentos JSON  
+Serviço de backup para coleções NoSQL  
+Serviço de rede para replicação global  
+Serviço de identidade para controle de permissões  
+Resposta: API compatível com consultas SQL para documentos JSON  
+Explicação: A SQL API permite consultas ricas em documentos NoSQL.  
+Categoria: Dados
+
+O que é o Azure Data Lake Analytics?
+Serviço de análise distribuída baseado em USQL  
+Serviço de backup para grandes volumes de dados  
+Serviço de rede para ingestão massiva  
+Serviço de identidade para auditoria de acessos  
+Resposta: Serviço de análise distribuída baseado em USQL  
+Explicação: Permite análises sob demanda em grandes volumes de dados.  
+Categoria: Dados
+
+O que é o Azure HDInsight?
+Serviço gerenciado para clusters Hadoop, Spark e Kafka  
+Serviço de backup para clusters distribuídos  
+Serviço de rede para processamento paralelo  
+Serviço de identidade para autenticação de clusters  
+Resposta: Serviço gerenciado para clusters Hadoop, Spark e Kafka  
+Explicação: HDInsight oferece ferramentas opensource para big data.  
+Categoria: Dados
+
+O que é o Azure Virtual Desktop FSLogix?
+Tecnologia para perfis de usuário otimizados em ambientes VDI  
+Serviço de backup para perfis remotos  
+Serviço de rede para sessões virtuais  
+Serviço de identidade para autenticação de desktops  
+Resposta: Tecnologia para perfis de usuário otimizados em ambientes VDI  
+Explicação: FSLogix melhora desempenho e gerenciamento de perfis.  
+Categoria: Computação
+
+O que é o Azure Monitor Network Insights?
+Visualização de desempenho e integridade de redes virtuais  
+Serviço de backup para métricas de rede  
+Serviço de identidade para auditoria de tráfego  
+Serviço de contêineres para análise distribuída  
+Resposta: Visualização de desempenho e integridade de redes virtuais  
+Explicação: Network Insights facilita o diagnóstico de problemas de rede.  
+Categoria: Observabilidade
+
+O que é o Azure Network Watcher Connection Monitor?
+Recurso que monitora conectividade entre recursos  
+Serviço de backup para logs de rede  
+Serviço de identidade para autenticação de conexões  
+Serviço de contêineres para análise de pacotes  
+Resposta: Recurso que monitora conectividade entre recursos  
+Explicação: Connection Monitor verifica latência e disponibilidade.  
+Categoria: Observabilidade
+
+O que é o Azure Firewall Policy?
+Recurso para gerenciar regras de firewall centralmente  
+Serviço de backup para políticas de segurança  
+Serviço de rede para isolamento de tráfego  
+Serviço de identidade para controle de permissões  
+Resposta: Recurso para gerenciar regras de firewall centralmente  
+Explicação: Permite padronizar regras em múltiplos firewalls.  
+Categoria: Segurança
+
+O que é o Azure Sentinel Analytics Rule?
+Regra que detecta comportamentos suspeitos  
+Serviço de backup para eventos de segurança  
+Serviço de rede para inspeção de tráfego  
+Serviço de identidade para auditoria de usuários  
+Resposta: Regra que detecta comportamentos suspeitos  
+Explicação: As regras analisam eventos para identificar ameaças.  
+Categoria: Segurança
+
+O que é o Azure AD Identity Protection?
+Serviço que detecta riscos de identidade e logins suspeitos  
+Serviço de backup para credenciais  
+Serviço de rede para proteção de tráfego  
+Serviço de contêineres para autenticação distribuída  
+Resposta: Servico que detecta riscos de identidade e logins suspeitos  
+Explicação: Identity Protection usa sinais de risco para proteger contas.  
+Categoria: Segurança
+
+O que é o Azure AD Access Package?
+Conjunto de recursos agrupados para facilitar concessão de acesso  
+Serviço de backup para permissões  
+Serviço de rede para controle de tráfego  
+Serviço de contêineres para gerenciamento de usuários  
+Resposta: Conjunto de recursos agrupados para facilitar concessão de acesso  
+Explicação: Access Packages simplificam o acesso baseado em funções.  
+Categoria: Segurança
+
+O que é o Azure AD Entitlement Management?
+Serviço para gerenciar ciclo de vida de acessos  
+Serviço de backup para políticas de acesso  
+Serviço de rede para autenticação distribuída  
+Serviço de contêineres para auditoria de permissões  
+Resposta: Serviço para gerenciar ciclo de vida de acessos  
+Explicação: Automatiza solicitações, aprovações e expiração de acessos.  
+Categoria: Segurança
+
+O que é o Azure Virtual Network NAT?
+Recurso que fornece saída de internet para subredes privadas  
+Serviço de backup para tráfego de saída  
+Serviço de identidade para autenticação de redes  
+Serviço de contêineres para roteamento interno  
+Resposta: Recurso que fornece saída de internet para subredes privadas  
+Explicação: NAT permite saída sem expor IPs internos.  
+Categoria: Infraestrutura
+
+O que é o Azure App Service Hybrid Connections?
+Recurso que conecta aplicativos a recursos locais  
+Serviço de backup para integrações híbridas  
+Serviço de rede para comunicação interna  
+Serviço de identidade para autenticação de serviços  
+Resposta: Recurso que conecta aplicativos a recursos locais  
+Explicação: Hybrid Connections permite acesso seguro a sistemas onpremises.  
+Categoria: Integração
+
+O que é o Azure Functions Consumption Plan?
+Plano que cobra apenas pelo tempo de execução  
+Serviço de backup para funções serverless  
+Serviço de rede para execução distribuída  
+Serviço de identidade para autenticação de funções  
+Resposta: Plano que cobra apenas pelo tempo de execução  
+Explicação: O plano serverless escala automaticamente e cobra por execução.  
+Categoria: Computação
+
+O que é o Azure Kubernetes Service Ingress Controller?
+Componente que gerencia entrada de tráfego HTTP/HTTPS no cluster  
+Serviço de backup para clusters AKS  
+Serviço de rede para roteamento interno  
+Serviço de identidade para autenticação de pods  
+Resposta: Componente que gerencia entrada de tráfego HTTP/HTTPS no cluster  
+Explicação: O Ingress Controller roteia tráfego para serviços internos.  
+Categoria: Contêineres
+
+O que é o Azure Container Registry Webhook?
+Recurso que dispara eventos quando imagens são atualizadas  
+Serviço de backup para repositórios de imagens  
+Serviço de rede para distribuição de contêineres  
+Serviço de identidade para controle de acesso  
+Resposta: Recurso que dispara eventos quando imagens são atualizadas  
+Explicação: Webhooks permitem automação baseada em mudanças de imagens.  
+Categoria: Contêineres
+
+O que é o Azure Logic Apps Integration Account?
+Recurso para armazenar artefatos de integração como mapas e esquemas  
+Serviço de backup para fluxos de integração  
+Serviço de rede para comunicação B2B  
+Serviço de identidade para autenticação de parceiros  
+Resposta: Recurso para armazenar artefatos de integração como mapas e esquemas  
+Explicação: Integration Accounts suportam integrações B2B.  
+Categoria: Integração
+
+O que é o Azure Virtual Network Subnet Delegation?
+Recurso que permite atribuir uma subrede a um serviço específico  
+Serviço de backup para subredes dedicadas  
+Serviço de identidade para controle de permissões  
+Serviço de contêineres para gerenciamento de redes  
+Resposta: Recurso que permite atribuir uma subrede a um serviço específico  
+Explicação: A delegação permite que serviços gerenciem a subrede diretamente.  
+Categoria: Infraestrutura
+
+O que é o Azure Application Gateway WAF?
+Firewall de aplicação integrado ao Application Gateway  
+Serviço de backup para regras de segurança  
+Serviço de identidade para autenticação de tráfego  
+Serviço de contêineres para inspeção de pacotes  
+Resposta: Firewall de aplicação integrado ao Application Gateway  
+Explicação: O WAF protege aplicativos contra ataques comuns.  
+Categoria: Segurança
+
+O que é o Azure Bastion Developer Mode?
+Recurso que permite acesso via cliente nativo RDP/SSH  
+Serviço de backup para sessões remotas  
+Serviço de rede para isolamento de conexões  
+Serviço de identidade para autenticação avançada  
+Resposta: Recurso que permite acesso via cliente nativo RDP/SSH  
+Explicação: O modo desenvolvedor facilita conexões diretas sem expor IP público.  
+Categoria: Segurança
+
+O que é o Azure SQL Automatic Tuning?
+Recurso que ajusta índices e planos de execução automaticamente  
+Serviço de backup para bancos SQL  
+Serviço de rede para replicação interna  
+Serviço de identidade para auditoria de consultas  
+Resposta: Recurso que ajusta índices e planos de execução automaticamente  
+Explicação: Automatic Tuning melhora desempenho sem intervenção manual.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB MultiRegion Writes?
+Recurso que permite gravações em múltiplas regiões simultaneamente  
+Serviço de backup para coleções distribuídas  
+Serviço de rede para replicação global  
+Serviço de identidade para controle de acesso  
+Resposta: Recurso que permite gravações em múltiplas regiões simultaneamente  
+Explicação: MultiRegion Writes reduz latência global.  
+Categoria: Dados
+
+O que é o Azure Data Factory Trigger?
+Mecanismo que inicia pipelines automaticamente  
+Serviço de backup para pipelines agendados  
+Serviço de rede para orquestração de dados  
+Serviço de identidade para autenticação de fluxos  
+Resposta: Mecanismo que inicia pipelines automaticamente  
+Explicação: Triggers podem ser agendados ou baseados em eventos.  
+Categoria: Dados
+
+O que é o Azure Virtual Machine Ephemeral Disk?
+Disco temporário de alto desempenho para VMs  
+Serviço de backup para discos temporários  
+Serviço de rede para armazenamento distribuído  
+Serviço de identidade para autenticação de volumes  
+Resposta: Disco temporário de alto desempenho para VMs  
+Explicação: Ephemeral disks são ideais para workloads stateless.  
+Categoria: Infraestrutura
+
+O que é o Azure Monitor Alerts Action Group?
+Grupo de ações que define como alertas são entregues  
+Serviço de backup para notificações críticas  
+Serviço de rede para distribuição de alertas  
+Serviço de identidade para autenticação de alertas  
+Resposta: Grupo de ações que define como alertas são entregues  
+Explicação: Action Groups enviam notificações via email, SMS e webhooks.  
+Categoria: Observabilidade
+
+O que é o Azure Network Security Group (NSG)?
+Filtro de tráfego baseado em regras para subredes e NICs  
+Serviço de backup para regras de segurança  
+Serviço de identidade para autenticação de tráfego  
+Serviço de contêineres para inspeção de pacotes  
+Resposta: Filtro de tráfego baseado em regras para subredes e NICs  
+Explicação: NSGs controlam tráfego de entrada e saída.  
+Categoria: Segurança
+
+O que é o Azure Private Endpoint DNS Integration?
+Recurso que resolve nomes privados para serviços conectados via Private Link  
+Serviço de backup para zonas DNS  
+Serviço de rede para roteamento interno  
+Serviço de identidade para autenticação DNS  
+Resposta: Recurso que resolve nomes privados para serviços conectados via Private Link  
+Explicação: A integração DNS garante resolução correta de endpoints privados.  
+Categoria: Infraestrutura
+
+O que é o Azure App Service VNet Integration?
+Recurso que permite que apps acessem redes privadas  
+Serviço de backup para aplicações web  
+Serviço de identidade para autenticação de apps  
+Serviço de contêineres para execução isolada  
+Resposta: Recurso que permite que apps acessem redes privadas  
+Explicação: A integração permite comunicação segura com VNets.  
+Categoria: Computação
+
+O que é o Azure Functions Bindings?
+Mecanismo que conecta funções a serviços como filas e bancos  
+Serviço de backup para funções serverless  
+Serviço de rede para execução distribuída  
+Serviço de identidade para autenticação de funções  
+Resposta: Mecanismo que conecta funções a serviços como filas e bancos  
+Explicação: Bindings simplificam integrações sem código adicional.  
+Categoria: Computação
+
+O que é o Azure Kubernetes Service Pod Identity?
+Recurso que permite que pods usem identidades gerenciadas  
+Serviço de backup para credenciais de pods  
+Serviço de rede para comunicação entre workloads  
+Serviço de identidade para autenticação externa  
+Resposta: Recurso que permite que pods usem identidades gerenciadas  
+Explicação: Pod Identity elimina necessidade de segredos dentro de contêineres.  
+Categoria: Contêineres
+
+O que é o Azure Container Registry GeoReplication?
+Recurso que replica imagens para múltiplas regiões  
+Serviço de backup para repositórios de imagens  
+Serviço de rede para distribuição global  
+Serviço de identidade para controle de acesso  
+Resposta: Recurso que replica imagens para múltiplas regiões  
+Explicação: A replicação melhora disponibilidade e reduz latência.  
+Categoria: Contêineres
+
+O que é o Azure Logic Apps Stateful Workflow?
+Workflow que mantém estado entre execuções  
+Serviço de backup para fluxos de trabalho  
+Serviço de rede para integração B2B  
+Serviço de identidade para autenticação de parceiros  
+Resposta: Workflow que mantém estado entre execuções  
+Explicação: Workflows stateful armazenam contexto entre etapas.  
+Categoria: Integração
+
+O que é o Azure Event Grid Custom Topic?
+Tópico criado pelo usuário para publicar eventos personalizados  
+Serviço de backup para eventos  
+Serviço de rede para roteamento de mensagens  
+Serviço de identidade para autenticação de produtores  
+Resposta: Tópico criado pelo usuário para publicar eventos personalizados  
+Explicação: Custom Topics permitem arquiteturas orientadas a eventos.  
+Categoria: Integração
+
+O que é o Azure Event Hub Throughput Unit?
+Unidade que define capacidade de ingestão de dados  
+Serviço de backup para streams  
+Serviço de rede para replicação de eventos  
+Serviço de identidade para controle de consumidores  
+Resposta: Unidade que define capacidade de ingestão de dados  
+Explicação: Throughput Units determinam taxa de entrada e saída.  
+Categoria: Integração
+
+O que é o Azure Cognitive Services Form Recognizer Layout API?
+API que extrai estrutura de documentos como tabelas e parágrafos  
+Serviço de backup para arquivos digitalizados  
+Serviço de rede para processamento distribuído  
+Serviço de identidade para autenticação de documentos  
+Resposta: API que extrai estrutura de documentos como tabelas e parágrafos  
+Explicação: A API identifica elementos estruturais em documentos.  
+Categoria: IA
+
+O que é o Azure Cognitive Services Face Detection?
+Serviço que detecta rostos em imagens  
+Serviço de backup para fotos  
+Serviço de rede para análise visual  
+Serviço de identidade para reconhecimento facial  
+Resposta: Serviço que detecta rostos em imagens  
+Explicação: O serviço identifica rostos e pontos faciais.  
+Categoria: IA
+
+O que é o Azure DevOps Repos?
+Repositório Git para armazenar códigofonte  
+Serviço de backup para projetos  
+Serviço de rede para colaboração  
+Serviço de identidade para controle de permissões  
+Resposta: Repositório Git para armazenar códigofonte  
+Explicação: Repos oferece versionamento e colaboração em código.  
+Categoria: Integração
+
+O que é o Azure Virtual Network IP Forwarding?
+Recurso que permite que uma VM encaminhe tráfego de rede  
+Serviço de backup para appliances virtuais  
+Serviço de identidade para autenticação de pacotes  
+Serviço de contêineres para roteamento interno  
+Resposta: Recurso que permite que uma VM encaminhe tráfego de rede  
+Explicação: IP Forwarding é usado para appliances virtuais como firewalls.  
+Categoria: Infraestrutura
+
+O que é o Azure Application Gateway Autoscaling?
+Recurso que ajusta automaticamente a capacidade do gateway  
+Serviço de backup para configurações de gateway  
+Serviço de identidade para autenticação de tráfego  
+Serviço de contêineres para balanceamento interno  
+Resposta: Recurso que ajusta automaticamente a capacidade do gateway  
+Explicação: O autoscaling adapta o gateway à demanda de tráfego.  
+Categoria: Infraestrutura
+
+O que é o Azure SQL Data Sync?
+Serviço que sincroniza dados entre bancos SQL  
+Serviço de backup para replicação  
+Serviço de rede para sincronização distribuída  
+Serviço de identidade para controle de acesso  
+Resposta: Serviço que sincroniza dados entre bancos SQL  
+Explicação: Data Sync replica dados entre instâncias SQL.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB Consistency Level?
+Configuração que define como leituras e gravações são sincronizadas  
+Serviço de backup para coleções distribuídas  
+Serviço de rede para replicação global  
+Serviço de identidade para auditoria de operações  
+Resposta: Configuração que define como leituras e gravações são sincronizadas  
+Explicação: Níveis de consistência equilibram desempenho e precisão.  
+Categoria: Dados
+
+O que é o Azure Data Factory Linked Service?
+Conexão configurada para acessar fontes de dados  
+Serviço de backup para pipelines  
+Serviço de rede para ingestão de dados  
+Serviço de identidade para autenticação de sistemas  
+Resposta: Conexão configurada para acessar fontes de dados  
+Explicação: Linked Services definem conexões com sistemas externos.  
+Categoria: Dados
+
+O que é o Azure Virtual Machine Proximity Placement Group?
+Agrupamento que mantém VMs fisicamente próximas  
+Serviço de backup para clusters  
+Serviço de rede para baixa latência  
+Serviço de identidade para autenticação de hosts  
+Resposta: Agrupamento que mantém VMs fisicamente próximas  
+Explicação: PPG reduz latência entre VMs.  
+Categoria: Infraestrutura
+
+O que é o Azure Monitor Log Analytics Workspace?
+Ambiente central para armazenar e consultar logs  
+Serviço de backup para dados de monitoramento  
+Serviço de rede para coleta distribuída  
+Serviço de identidade para auditoria de logs  
+Resposta: Ambiente central para armazenar e consultar logs  
+Explicação: Workspaces armazenam dados usados por consultas KQL.  
+Categoria: Observabilidade
+
+O que é o Azure Network Watcher Packet Capture?
+Recurso que captura pacotes de rede para diagnóstico  
+Serviço de backup para pacotes capturados  
+Serviço de identidade para auditoria de tráfego  
+Serviço de contêineres para inspeção distribuída  
+Resposta: Recurso que captura pacotes de rede para diagnóstico  
+Explicação: Packet Capture ajuda a investigar problemas de tráfego.  
+Categoria: Observabilidade
+
+O que é o Azure Firewall DNAT Rule?
+Regra que redireciona tráfego de IP público para IP interno  
+Serviço de backup para regras de firewall  
+Serviço de rede para roteamento externo  
+Serviço de identidade para autenticação de conexões  
+Resposta: Regra que redireciona tráfego de IP público para IP interno  
+Explicação: DNAT permite acesso externo a recursos internos.  
+Categoria: Segurança
+
+O que é o Azure Sentinel Incident?
+Agrupamento de alertas relacionados a uma possível ameaça  
+Serviço de backup para eventos de segurança  
+Serviço de rede para análise de tráfego  
+Serviço de identidade para auditoria de usuários  
+Resposta: Agrupamento de alertas relacionados a uma possível ameaça  
+Explicação: Incidents consolidam alertas para investigação.  
+Categoria: Segurança
+
+O que é o Azure AD Conditional Access Policy?
+Política que controla acesso com base em condições  
+Serviço de backup para políticas de acesso  
+Serviço de rede para autenticação distribuída  
+Serviço de contêineres para controle de usuários  
+Resposta: Política que controla acesso com base em condições  
+Explicação: Conditional Access aplica regras como MFA e restrições de localização.  
+Categoria: Segurança
+
+O que é o Azure AD Password Protection?
+Recurso que bloqueia senhas fracas ou comprometidas  
+Serviço de backup para credenciais  
+Serviço de rede para proteção de tráfego  
+Serviço de contêineres para autenticação distribuída  
+Resposta: Recurso que bloqueia senhas fracas ou comprometidas  
+Explicação: Protege contas contra senhas inseguras.  
+Categoria: Segurança
+
+O que é o Azure Virtual Network Route Table?
+Tabela que define rotas personalizadas para tráfego  
+Serviço de backup para rotas  
+Serviço de identidade para autenticação de redes  
+Serviço de contêineres para roteamento interno  
+Resposta: Tabela que define rotas personalizadas para tráfego  
+Explicação: Route Tables controlam o fluxo de tráfego entre subredes.  
+Categoria: Infraestrutura
+
+O que é o Azure App Service Kudu?
+Ferramenta avançada de diagnóstico e gerenciamento de arquivos  
+Serviço de backup para aplicações web  
+Serviço de rede para deploy contínuo  
+Serviço de identidade para autenticação de apps  
+Resposta: Ferramenta avançada de diagnóstico e gerenciamento de arquivos  
+Explicação: Kudu oferece ferramentas internas para apps hospedados.  
+Categoria: Computação
+
+O que é o Azure Functions Timer Trigger?
+Trigger que executa funções em horários programados  
+Serviço de backup para execuções agendadas  
+Serviço de rede para automação distribuída  
+Serviço de identidade para autenticação de funções  
+Resposta: Trigger que executa funções em horários programados  
+Explicação: Timer Trigger permite execuções agendadas.  
+Categoria: Computação
+
+O que é o Azure Kubernetes Service DaemonSet?
+Recurso que executa pods em todos os nós do cluster  
+Serviço de backup para workloads distribuídos  
+Serviço de rede para comunicação interna  
+Serviço de identidade para autenticação de pods  
+Resposta: Recurso que executa pods em todos os nós do cluster  
+Explicação: DaemonSets garantem execução uniforme em todos os nós.  
+Categoria: Contêineres
+
+O que é o Azure Container Registry Content Trust?
+Recurso que garante integridade de imagens assinadas  
+Serviço de backup para repositórios  
+Serviço de rede para distribuição de imagens  
+Serviço de identidade para controle de acesso  
+Resposta: Recurso que garante integridade de imagens assinadas  
+Explicação: Content Trust valida a origem das imagens.  
+Categoria: Contêineres
+
+O que é o Azure Logic Apps Consumption Plan?
+Plano que cobra por execução de workflows  
+Serviço de backup para fluxos de trabalho  
+Serviço de rede para integração distribuída  
+Serviço de identidade para autenticação de serviços  
+Resposta: Plano que cobra por execução de workflows  
+Explicação: O plano Consumption escala automaticamente e cobra por execução.  
+Categoria: Integração
+
+O que é o Azure Event Grid Domain?
+Estrutura para gerenciar múltiplos tópicos de eventos  
+Serviço de backup para eventos  
+Serviço de rede para roteamento de mensagens  
+Serviço de identidade para autenticação de produtores  
+Resposta: Estrutura para gerenciar múltiplos tópicos de eventos  
+Explicação: Domains organizam eventos em larga escala.  
+Categoria: Integração
+
+O que é o Azure Event Hub Consumer Group?
+Grupo que permite múltiplos consumidores lerem o mesmo stream  
+Serviço de backup para eventos  
+Serviço de rede para replicação de mensagens  
+Serviço de identidade para controle de consumidores  
+Resposta: Grupo que permite múltiplos consumidores lerem o mesmo stream  
+Explicação: Consumer Groups permitem processamento paralelo de eventos.  
+Categoria: Integração
+
+O que é o Azure Virtual Network BGP?
+Protocolo usado para troca dinâmica de rotas entre redes  
+Serviço de backup para tabelas de roteamento  
+Serviço de identidade para autenticação de gateways  
+Serviço de contêineres para roteamento interno  
+Resposta: Protocolo usado para troca dinâmica de rotas entre redes  
+Explicação: O BGP permite que gateways troquem rotas automaticamente.  
+Categoria: Infraestrutura
+
+O que é o Azure Application Gateway URL Path Routing?
+Recurso que direciona tráfego com base no caminho da URL  
+Serviço de backup para aplicações web  
+Serviço de identidade para autenticação de requisições  
+Serviço de contêineres para roteamento interno  
+Resposta: Recurso que direciona tráfego com base no caminho da URL  
+Explicação: O roteamento por caminho permite distribuir tráfego entre serviços diferentes.  
+Categoria: Infraestrutura
+
+O que é o Azure SQL Query Store?
+Recurso que armazena histórico de consultas e planos de execução  
+Serviço de backup para bancos SQL  
+Serviço de rede para replicação interna  
+Serviço de identidade para auditoria de consultas  
+Resposta: Recurso que armazena histórico de consultas e planos de execução  
+Explicação: Query Store ajuda a diagnosticar problemas de desempenho.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB Partition Key?
+Campo usado para distribuir dados entre partições  
+Serviço de backup para coleções distribuídas  
+Serviço de rede para replicação global  
+Serviço de identidade para controle de acesso  
+Resposta: Campo usado para distribuir dados entre partições  
+Explicação: A chave de partição determina como dados são distribuídos.  
+Categoria: Dados
+
+O que é o Azure Data Factory Pipeline?
+Fluxo de atividades de integração de dados  
+Serviço de backup para pipelines  
+Serviço de rede para ingestão de dados  
+Serviço de identidade para autenticação de sistemas  
+Resposta: Fluxo de atividades de integração de dados  
+Explicação: Pipelines organizam tarefas de ingestão e transformação.  
+Categoria: Dados
+
+O que é o Azure Virtual Machine Scale Set?
+Conjunto de VMs que escala automaticamente  
+Serviço de backup para máquinas virtuais  
+Serviço de rede para balanceamento interno  
+Serviço de identidade para autenticação de hosts  
+Resposta: Conjunto de VMs que escala automaticamente  
+Explicação: Scale Sets permitem escalar horizontalmente.  
+Categoria: Infraestrutura
+
+O que é o Azure Monitor Metric Alerts?
+Alertas baseados em métricas numéricas  
+Serviço de backup para métricas  
+Serviço de rede para monitoramento distribuído  
+Serviço de identidade para auditoria de alertas  
+Resposta: Alertas baseados em métricas numéricas  
+Explicação: Metric Alerts monitoram valores como CPU e memória.  
+Categoria: Observabilidade
+
+O que é o Azure Network Watcher Topology?
+Visualização gráfica da topologia de rede  
+Serviço de backup para diagramas  
+Serviço de identidade para autenticação de recursos  
+Serviço de contêineres para análise de tráfego  
+Resposta: Visualização gráfica da topologia de rede  
+Explicação: Topology mostra conexões entre recursos de rede.  
+Categoria: Observabilidade
+
+O que é o Azure Firewall Application Rule?
+Regra que controla tráfego baseado em FQDNs  
+Serviço de backup para regras de firewall  
+Serviço de rede para inspeção de pacotes  
+Serviço de identidade para autenticação de tráfego  
+Resposta: Regra que controla tráfego baseado em FQDNs  
+Explicação: Application Rules filtram tráfego HTTP/HTTPS.  
+Categoria: Segurança
+
+O que é o Azure Sentinel Data Connector?
+Conector que integra fontes de dados ao Sentinel  
+Serviço de backup para logs de segurança  
+Serviço de rede para ingestão de eventos  
+Serviço de identidade para autenticação de fontes  
+Resposta: Conector que integra fontes de dados ao Sentinel  
+Explicação: Data Connectors trazem logs de diversas plataformas.  
+Categoria: Segurança
+
+O que é o Azure AD MFA Registration Policy?
+Política que exige registro de métodos de autenticação  
+Serviço de backup para credenciais  
+Serviço de rede para autenticação distribuída  
+Serviço de contêineres para controle de usuários  
+Resposta: Política que exige registro de métodos de autenticação  
+Explicação: A política garante que usuários configurem MFA.  
+Categoria: Segurança
+
+O que é o Azure AD Privileged Identity Management?
+Serviço para controlar acesso privilegiado temporário  
+Serviço de backup para permissões elevadas  
+Serviço de rede para auditoria de acessos  
+Serviço de contêineres para gerenciamento de identidades  
+Resposta: Serviço para controlar acesso privilegiado temporário  
+Explicação: PIM reduz riscos de acessos permanentes.  
+Categoria: Segurança
+
+O que é o Azure Virtual Network UDR?
+Rota definida pelo usuário para controlar tráfego  
+Serviço de backup para tabelas de roteamento  
+Serviço de identidade para autenticação de redes  
+Serviço de contêineres para roteamento interno  
+Resposta: Rota definida pelo usuário para controlar tráfego  
+Explicação: UDRs substituem rotas padrão.  
+Categoria: Infraestrutura
+
+O que é o Azure App Service AutoHeal?
+Recurso que reinicia automaticamente apps com problemas  
+Serviço de backup para aplicações web  
+Serviço de rede para monitoramento interno  
+Serviço de identidade para autenticação de processos  
+Resposta: Recurso que reinicia automaticamente apps com problemas  
+Explicação: AutoHeal corrige falhas automaticamente.  
+Categoria: Computação
+
+O que é o Azure Functions HTTP Trigger?
+Trigger que executa funções via requisições HTTP  
+Serviço de backup para endpoints  
+Serviço de rede para roteamento de requisições  
+Serviço de identidade para autenticação de funções  
+Resposta: Trigger que executa funções via requisições HTTP  
+Explicação: HTTP Trigger cria endpoints serverless.  
+Categoria: Computação
+
+O que é o Azure Kubernetes Service HPA?
+Recurso que escala pods com base em métricas  
+Serviço de backup para clusters  
+Serviço de rede para comunicação interna  
+Serviço de identidade para autenticação de pods  
+Resposta: Recurso que escala pods com base em métricas  
+Explicação: O HPA ajusta a quantidade de pods automaticamente.  
+Categoria: Contêineres
+
+O que é o Azure Container Registry Build Task?
+Tarefa automatizada para construir imagens  
+Serviço de backup para repositórios  
+Serviço de rede para distribuição de imagens  
+Serviço de identidade para controle de acesso  
+Resposta: Tarefa automatizada para construir imagens  
+Explicação: Build Tasks automatizam pipelines de contêineres.  
+Categoria: Contêineres
+
+O que é o Azure Logic Apps API Connection?
+Conexão configurada para integrar serviços externos  
+Serviço de backup para integrações  
+Serviço de rede para comunicação B2B  
+Serviço de identidade para autenticação de parceiros  
+Resposta: Conexão configurada para integrar serviços externos  
+Explicação: API Connections armazenam credenciais e endpoints.  
+Categoria: Integração
+
+O que é o Azure Event Grid Event Subscription?
+Configuração que define para onde eventos serão enviados  
+Serviço de backup para eventos  
+Serviço de rede para roteamento de mensagens  
+Serviço de identidade para autenticação de handlers  
+Resposta: Configuração que define para onde eventos serão enviados  
+Explicação: Subscriptions entregam eventos a handlers.  
+Categoria: Integração
+
+O que é o Azure Event Hub Capture Interval?
+Intervalo de tempo entre capturas automáticas de dados  
+Serviço de backup para streams  
+Serviço de rede para ingestão contínua  
+Serviço de identidade para controle de consumidores  
+Resposta: Intervalo de tempo entre capturas automáticas de dados  
+Explicação: O intervalo define frequência de gravação no storage.  
+Categoria: Integração
+
+O que é o Azure Virtual Network Gateway SKU?
+Tipo de gateway que define capacidade e desempenho  
+Serviço de backup para conexões VPN  
+Serviço de identidade para autenticação de gateways  
+Serviço de contêineres para roteamento interno  
+Resposta: Tipo de gateway que define capacidade e desempenho  
+Explicação: SKUs determinam throughput, conexões e recursos disponíveis.  
+Categoria: Infraestrutura
+
+O que é o Azure Application Gateway Rewrite Rule?
+Regra que modifica cabeçalhos e URLs de requisições  
+Serviço de backup para configurações de gateway  
+Serviço de identidade para autenticação de tráfego  
+Serviço de contêineres para inspeção de pacotes  
+Resposta: Regra que modifica cabeçalhos e URLs de requisições  
+Explicação: Rewrite Rules permitem ajustar tráfego antes de encaminhar.  
+Categoria: Infraestrutura
+
+O que é o Azure SQL LongTerm Backup Retention?
+Recurso que mantém backups por anos para conformidade  
+Serviço de rede para replicação interna  
+Serviço de identidade para auditoria de bancos  
+Serviço de contêineres para armazenamento distribuído  
+Resposta: Recurso que mantém backups por anos para conformidade  
+Explicação: LTR armazena backups por longos períodos.  
+Categoria: Dados
+
+O que é o Azure Cosmos DB Analytical Store?
+Camada otimizada para análises sem afetar operações transacionais  
+Serviço de backup para coleções analíticas  
+Serviço de rede para processamento distribuído  
+Serviço de identidade para controle de acesso  
+Resposta: Camada otimizada para análises sem afetar operações transacionais  
+Explicação: Analytical Store separa cargas analíticas das operacionais.  
+Categoria: Dados
+
+O que é o Azure Data Factory SelfHosted Integration Runtime?
+Runtime instalado localmente para acessar dados onpremises  
+Serviço de backup para pipelines locais  
+Serviço de rede para ingestão híbrida  
+Serviço de identidade para autenticação de servidores  
+Resposta: Runtime instalado localmente para acessar dados onpremises  
+Explicação: Permite integração entre ambientes locais e a nuvem.  
+Categoria: Dados
+
+O que é o Azure Virtual Machine Spot Instance?
+VM com preço reduzido sujeita a interrupção  
+Serviço de backup para máquinas temporárias  
+Serviço de rede para workloads elásticas  
+Serviço de identidade para autenticação de VMs  
+Resposta: VM com preço reduzido sujeita a interrupção  
+Explicação: Spot VMs são econômicas, mas podem ser desalocadas.  
+Categoria: Infraestrutura
+
+O que é o Azure Monitor Activity Log?
+Log que registra operações de gerenciamento no Azure  
+Serviço de backup para auditoria  
+Serviço de rede para monitoramento interno  
+Serviço de identidade para controle administrativo  
+Resposta: Log que registra operações de gerenciamento no Azure  
+Explicação: O Activity Log mostra ações administrativas.  
+Categoria: Observabilidade
+
+O que é o Azure Network Watcher NSG Flow Logs?
+Logs que registram tráfego permitido e negado por NSGs  
+Serviço de backup para logs de rede  
+Serviço de identidade para auditoria de tráfego  
+Serviço de contêineres para análise distribuída  
+Resposta: Logs que registram tráfego permitido e negado por NSGs  
+Explicação: Flow Logs ajudam a analisar padrões de tráfego.  
+Categoria: Observabilidade
+
+O que é o Azure Firewall Threat Intelligence?
+Recurso que bloqueia tráfego baseado em listas de ameaças  
+Serviço de backup para regras de segurança  
+Serviço de rede para inspeção avançada  
+Serviço de identidade para autenticação de conexões  
+Resposta: Recurso que bloqueia tráfego baseado em listas de ameaças  
+Explicação: Threat Intelligence usa dados de ameaças conhecidos.  
+Categoria: Segurança
+
+O que é o Azure Sentinel Watchlist?
+Lista personalizada usada para correlação de eventos  
+Serviço de backup para listas de segurança  
+Serviço de rede para análise de tráfego  
+Serviço de identidade para auditoria de usuários  
+Resposta: Lista personalizada usada para correlação de eventos  
+Explicação: Watchlists ajudam a identificar padrões suspeitos.  
+Categoria: Segurança
+
+O que é o Azure AD Identity Governance?
+Conjunto de recursos para gerenciar acessos e conformidade  
+Serviço de backup para políticas de acesso  
+Serviço de rede para autenticação distribuída  
+Serviço de contêineres para controle de usuários  
+Resposta: Conjunto de recursos para gerenciar acessos e conformidade  
+Explicação: Identity Governance controla ciclo de vida de acessos.  
+Categoria: Segurança
+
+O que é o Azure AD B2C Custom Policy?
+Política personalizada para autenticação de usuários externos  
+Serviço de backup para credenciais externas  
+Serviço de rede para login federado  
+Serviço de contêineres para gerenciamento de identidades  
+Resposta: Política personalizada para autenticação de usuários externos  
+Explicação: Custom Policies permitem fluxos de login avançados.  
+Categoria: Segurança
+
+O que é o Azure Virtual Network Service Chaining?
+Encaminhamento de tráfego por appliances virtuais  
+Serviço de backup para inspeção de tráfego  
+Serviço de identidade para autenticação de redes  
+Serviço de contêineres para roteamento interno  
+Resposta: Encaminhamento de tráfego por appliances virtuais  
+Explicação: Service Chaining permite inspeção de tráfego.  
+Categoria: Infraestrutura
+
+O que é o Azure App Service Deployment Center?
+Ferramenta para configurar CI/CD diretamente no App Service  
+Serviço de backup para deploys  
+Serviço de rede para entrega contínua  
+Serviço de identidade para autenticação de pipelines  
+Resposta: Ferramenta para configurar CI/CD diretamente no App Service  
+Explicação: Deployment Center integra repositórios e pipelines.  
+Categoria: Computação
+
+O que é o Azure Functions Queue Trigger?
+Trigger que executa funções quando mensagens chegam a uma fila  
+Serviço de backup para filas  
+Serviço de rede para processamento distribuído  
+Serviço de identidade para autenticação de mensagens  
+Resposta: Trigger que executa funções quando mensagens chegam a uma fila  
+Explicação: Queue Trigger processa mensagens automaticamente.  
+Categoria: Computação
+
+O que é o Azure Kubernetes Service Cluster Upgrade?
+Processo de atualização do cluster e dos nós  
+Serviço de backup para clusters  
+Serviço de rede para comunicação interna  
+Serviço de identidade para autenticação de workloads  
+Resposta: Processo de atualização do cluster e dos nós  
+Explicação: Upgrades mantêm o cluster seguro e atualizado.  
+Categoria: Contêineres
+
+O que é o Azure Container Registry Retention Policy?
+Política que exclui automaticamente imagens antigas  
+Serviço de backup para repositórios de contêineres  
+Serviço de rede para distribuição global de imagens  
+Serviço de identidade para controle de acesso ao registro  
+Resposta: Política que exclui automaticamente imagens antigas  
+Explicação: Retention Policies removem imagens não utilizadas para reduzir custos e manter o repositório limpo.  
+Categoria: Contêineres
+
+O que é o Azure Logic Apps B2B Connector?
+Conector para integrações EDI e AS2  
+Serviço de backup para arquivos de integração  
+Serviço de rede para comunicação entre parceiros  
+Serviço de identidade para autenticação B2B  
+Resposta: Conector para integrações EDI e AS2  
+Explicação: O conector suporta integrações empresariais tradicionais como EDIFACT e AS2.  
+Categoria: Integração
+
+O que é o Azure Event Grid Retry Policy?
+Política que define tentativas de reentrega de eventos  
+Serviço de backup para eventos não entregues  
+Serviço de rede para roteamento de mensagens  
+Serviço de identidade para validação de eventos  
+Resposta: Política que define tentativas de reentrega de eventos  
+Explicação: Retry Policies garantem entrega confiável mesmo em falhas temporárias.  
+Categoria: Integração
+
+O que é o Azure Event Hub AutoInflate?
+Recurso que aumenta automaticamente unidades de throughput  
+Serviço de backup para streams de eventos  
+Serviço de rede para ingestão massiva  
+Serviço de identidade para controle de consumidores  
+Resposta: Recurso que aumenta automaticamente unidades de throughput  
+Explicação: AutoInflate ajusta a capacidade conforme a demanda de ingestão.  
+Categoria: Integração
