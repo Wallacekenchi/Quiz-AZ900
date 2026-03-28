@@ -1,4 +1,5 @@
 import os
+import sys
 # Força o uso dos provedores que suportam GIF animado
 os.environ['KIVY_IMAGE'] = 'sdl2,pil,ffpyplayer'
 
@@ -9,16 +10,26 @@ from kivy.properties import StringProperty, NumericProperty, ListProperty
 from kivy.uix.screenmanager import ScreenManager, Screen, FadeTransition
 from kivy.uix.button import Button
 from kivy.core.audio import SoundLoader
+from kivy.core.window import Window
 import random
 
-# Cores Padrão Azure
+# --- FUNÇÃO PARA CAMINHOS NO EXECUTÁVEL ---
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.dirname(os.path.abspath(__file__))
+    return os.path.join(base_path, relative_path)
+
+# Cores Azure
 AZURE_BG = (0.04, 0.06, 0.14, 1)
 AZURE_BLUE = (0.0, 0.47, 0.83, 1)
 
-# --- INTERFACE COMPLETA (KV) ---
-KV = """
+# --- INTERFACE KV ---
+KV = f"""
 #:import AZURE_BG __main__.AZURE_BG
 #:import AZURE_BLUE __main__.AZURE_BLUE
+#:import resource_path __main__.resource_path
 
 <StartScreen>:
     canvas.before:
@@ -32,8 +43,10 @@ KV = """
         padding: 40
         spacing: 20
         Image:
-            source: 'az900logo.jpg'
-            size_hint_y: 0.5
+            source: resource_path('az900logo.jpg')
+            size_hint_y: 0.6
+            allow_stretch: True
+            keep_ratio: True
         TextInput:
             id: user_input
             hint_text: "Seu nome"
@@ -99,7 +112,6 @@ KV = """
                 size: ('130dp', '130dp')
                 allow_stretch: True
                 anim_delay: 0.05
-
         BoxLayout:
             size_hint_y: None
             height: 60
@@ -124,56 +136,52 @@ KV = """
         orientation: 'vertical'
         padding: 20
         spacing: 15
-        
         BoxLayout:
             orientation: 'horizontal'
             spacing: 20
-            
-            # --- LADO ESQUERDO (70%) ---
             BoxLayout:
                 orientation: 'vertical'
                 size_hint_x: 0.7
                 spacing: 10
-                
                 Label:
                     id: result_label
-                    text: "0%"
-                    font_size: '45sp' # Porcentagem diminuída conforme pedido
+                    font_size: '45sp'
                     bold: True
                     color: AZURE_BLUE
                     size_hint_y: None
                     height: 60
-
-                # --- GRÁFICO DE PERFORMANCE ---
+                Label:
+                    id: motivation_label
+                    text: ""
+                    font_size: '16sp'
+                    halign: 'center'
+                    size_hint_y: None
+                    height: 30
                 BoxLayout:
                     size_hint_y: None
                     height: '30dp'
                     canvas.before:
                         Color:
-                            rgba: (0.7, 0.2, 0.2, 1) # Vermelho (Fundo/Erro)
+                            rgba: (0.7, 0.2, 0.2, 1)
                         Rectangle:
                             pos: self.pos
                             size: self.size
                         Color:
-                            rgba: (0.2, 0.7, 0.2, 1) # Verde (Acerto)
+                            rgba: (0.2, 0.7, 0.2, 1)
                         Rectangle:
                             pos: self.pos
                             size: (self.width * root.accuracy_ratio, self.height)
-                
                 Label:
                     text: "Performance: Verde (Acertos) | Vermelho (Erros)"
                     font_size: '11sp'
                     size_hint_y: None
                     height: 20
-
                 Image:
                     id: result_img
-                    source: 'trophy.png'
+                    source: ""
                     allow_stretch: True
                     keep_ratio: True
-                    size_hint_y: 0.8 # Imagem aumentada para ocupar mais escala
-
-            # --- LADO DIREITO (30%) ---
+                    size_hint_y: 0.8
             BoxLayout:
                 orientation: 'vertical'
                 size_hint_x: 0.3
@@ -193,7 +201,6 @@ KV = """
                         size_hint_y: None
                         height: self.texture_size[1]
                         padding: [10, 10]
-
         BoxLayout:
             size_hint_y: None
             height: 60
@@ -258,31 +265,26 @@ KV = """
             on_release: root.manager.current = "result"
 """
 
-# --- LÓGICA PYTHON ---
-
-class StartScreen(Screen):
-    pass
+class StartScreen(Screen): pass
 
 class QuizScreen(Screen):
     progress = NumericProperty(0)
     gif_source = StringProperty("")
-
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.questions = []
         self.wrong_answers = []
         self.current = 0
         self.correct = 0
-        self.base_path = os.path.dirname(os.path.abspath(__file__))
-        self.sound_acerto = SoundLoader.load(os.path.join(self.base_path, "correto.mp3"))
-        self.sound_erro = SoundLoader.load(os.path.join(self.base_path, "erro.wav"))
+        self.sound_acerto = SoundLoader.load(resource_path("correto.mp3"))
+        self.sound_erro = SoundLoader.load(resource_path("erro.wav"))
 
     def on_pre_enter(self):
         self.load_questions()
         self.reset_quiz()
 
     def load_questions(self):
-        path = os.path.join(self.base_path, "questions.txt")
+        path = resource_path("questions.txt")
         if not os.path.exists(path): return
         with open(path, "r", encoding="utf-8") as f:
             lines = [l.strip() for l in f if l.strip()]
@@ -314,7 +316,6 @@ class QuizScreen(Screen):
         self.ids.explanation.text = ""
         self.ids.opts.clear_widgets()
         self.progress = (self.current / 45) * 100
-        
         opts = q['opts'][:]
         random.shuffle(opts)
         for opt in opts:
@@ -335,16 +336,15 @@ class QuizScreen(Screen):
         cat = q['cat']
         self.stats.setdefault(cat, {"total": 0, "correct": 0})
         self.stats[cat]["total"] += 1
-
         if self.selected.text.strip() == q["ans"].strip():
             self.correct += 1
             self.stats[cat]["correct"] += 1
-            self.gif_source = os.path.join(self.base_path, "happy.gif")
+            self.gif_source = resource_path("happy.gif")
             if self.sound_acerto: self.sound_acerto.play()
             self.ids.explanation.text = f"✅ [b]CORRETO![/b]\n\n{q['exp']}"
             self.selected.background_color = (0, 0.4, 0, 1)
         else:
-            self.gif_source = os.path.join(self.base_path, "erro.gif")
+            self.gif_source = resource_path("erro.gif")
             if self.sound_erro: self.sound_erro.play()
             self.ids.explanation.text = f"❌ [b]INCORRETO[/b]\n[b]Correta:[/b] {q['ans']}\n\n{q['exp']}"
             self.selected.background_color = (0.6, 0, 0, 1)
@@ -366,16 +366,25 @@ class ResultScreen(Screen):
     accuracy_ratio = NumericProperty(0)
 
     def show(self, percent, stats, wrong_answers, ratio):
+        user = App.get_running_app().user_name
         self.ids.result_label.text = f"{percent:.0f}%"
         self.accuracy_ratio = ratio
-        self.ids.result_img.source = "trophy.png" if percent >= 70 else "derrota.png"
-        self.wrong_answers = wrong_answers
         
+        # Lógica de Imagem e Mensagem Motivacional
+        if percent >= 70:
+            self.ids.motivation_label.text = f"Parabéns, {user}! Você está pronto para o exame!"
+            self.ids.result_img.source = resource_path("trophy.png")
+        else:
+            self.ids.motivation_label.text = f"Quase lá, {user}. Revise os erros e tente novamente!"
+            self.ids.result_img.source = resource_path("derrota.png")
+        
+        self.ids.result_img.reload()
+
+        self.wrong_answers = wrong_answers
         txt = "[b]DESEMPENHO POR TEMA[/b]\n\n"
         for c, d in stats.items():
             txt += f"[b]{c[:15]}:[/b]\n{d['correct']}/{d['total']} acertos\n\n"
         self.ids.feedback.text = txt
-        
         self.ids.btn_review.opacity = 1 if wrong_answers else 0
         self.ids.btn_review.disabled = False if wrong_answers else True
 
@@ -389,12 +398,10 @@ class ResultScreen(Screen):
 class ReviewScreen(Screen):
     errors = ListProperty([])
     index = NumericProperty(0)
-
     def update_ui(self):
         if not self.errors: return
         e = self.errors[self.index]
         self.ids.review_label.text = f"[b]QUESTÃO {self.index+1}:[/b]\n{e['q']}\n\n[color=ff6666]Sua Resposta: {e['user']}[/color]\n[color=66ff66]Resposta Correta: {e['ans']}[/color]\n\n[b]Explicação:[/b]\n{e['exp']}"
-
     def move(self, dir):
         new_idx = self.index + dir
         if 0 <= new_idx < len(self.errors):
