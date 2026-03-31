@@ -79,7 +79,9 @@ Aqui o foco é aprendizado real:
 
 ### 📊 Resultado Final
 
-![Resultado](assets/resultado.png)
+<img width="995" height="786" alt="imagem4-Final" src="https://github.com/user-attachments/assets/e2fefa5c-acf1-4036-afe0-eb54ee7001ca" />
+<img width="1017" height="788" alt="imagem5-Final" src="https://github.com/user-attachments/assets/bb8f4d78-beb8-4a6a-8850-b047941709dc" />
+
 
 ✔ Score geral  
 ✔ Performance por categoria  
