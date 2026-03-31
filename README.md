@@ -94,6 +94,7 @@ Aqui o foco é aprendizado real:
 Após finalizar o simulado:
 <img width="997" height="791" alt="image" src="https://github.com/user-attachments/assets/564018ad-2f45-4f17-a5df-2c78ba19970c" />
 
+
 - Veja onde errou  
 - Entenda o motivo  
 - Reforce o conteúdo  
@@ -102,7 +103,7 @@ Após finalizar o simulado:
 
 ---
 
-## ⚙️ Como Executar
+## ⚙️ Requeriments
 
 ```bash
 # instalar dependências
@@ -110,3 +111,16 @@ pip install kivy
 
 # rodar o projeto
 python main.py
+# Framework de Interface Gráfica
+kivy==2.3.0
+
+# Dependências para manipulação de Imagens e GIFs
+Pillow==10.2.0
+
+# Provedores de Janela e Áudio (essenciais para Windows/Linux)
+kivy-deps.sdl2==0.7.0
+kivy-deps.glew==0.3.1
+kivy-deps.angle==0.4.0
+
+# Bibliotecas auxiliares (se estiver usando para requisições ou logs)
+requests==2.31.0
